@@ -7,11 +7,12 @@
 1. Create free [gradescope.com](https://www.gradescope.com) account and add course ######
 
 # Weekly Requirements
-1. Reading _due Sunday_ [(perusall.com)](https://www.perusall.com)
+1. Reading comments _due Sunday_ [(perusall.com)](https://www.perusall.com)
 1. Lectures _due Sunday_
 1. Problemset _due Sunday_ [(math.csi.cuny.edu/webwork2/)](https://www.math.csi.cuny.edu/webwork2/)
 1. Lab _due Sunday_ (links below; submit on [gradescope.com](https://www.gradescope.com))
-1. Checkin Signup _due Sunday_ (emailed weekly)
+1. Checkin _signup due Sunday_ (signup emailed weekly)  
+![other](../other.png)
 
 # Grade
 `Coursework = AVG(Reading, Problemset, Lab, Checkin)`  
