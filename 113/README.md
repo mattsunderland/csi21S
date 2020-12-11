@@ -1,14 +1,26 @@
 # Introduction to Statistics
 
 # Day 1 Checklist
-1. Confirm your email address: [emails.txt](./emails.txt). If incorrect, submit correction here: [googleform]
+1. Confirm your email address(s): [emails.txt](./emails.txt). If incorrect, submit correction here: [googleform]
+1. Download zoom and create free account
+1. Create free [perusall.com](https://www.perusall.com) account and add course ######
+1. Create free [gradescope.com](https://www.gradescope.com) account and add course ######
 
 # Weekly Requirements
 1. Reading _due Sunday_ [(perusall.com)](https://www.perusall.com)
 1. Lectures _due Sunday_
 1. Problemset _due Sunday_ [(math.csi.cuny.edu/webwork2/)](https://www.math.csi.cuny.edu/webwork2/)
-1. Lab _due Sunday_
+1. Lab _due Sunday_ (links below; submit on [gradescope.com](https://www.gradescope.com))
 1. Checkin Signup _due Sunday_ (emailed weekly)
+
+# Grade
+`Coursework = AVG(Reading, Problemset, Lab, Checkin)`  
+`Grade = AVG(Coursework, Exam 1, Exam 2, Final)`
+
+# Important Dates
+1. Add deadline = 2.4
+1. Drop deadline = 2.18
+1. Withdraw deadline = 5.17
 
 # Lectures
 A. (2.7) [Recording 1] [2] [3] [Notes 1] [2] [3]  
