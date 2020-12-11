@@ -10,7 +10,7 @@
 1. Reading comments _due Sunday_ [(perusall.com)](https://www.perusall.com)
 1. Lectures _due Sunday_
 1. Problemset _due Sunday_ [(math.csi.cuny.edu/webwork2/)](https://www.math.csi.cuny.edu/webwork2/)
-1. Lab _due Sunday_ (links below; submit on [gradescope.com](https://www.gradescope.com))
+1. Lab _due Sunday_
 1. Checkin _signup due Sunday_ (signup emailed weekly)  
 ![other](../other.png)
 
@@ -52,6 +52,14 @@ Y. (5.16)
 Z. (5.16)  
 
 # Labs
+1. Click on the lab for the week
+1. Wait for the notebook to load
+(server can take up to 5 minutes to spin up)
+1. Do the lab
+1. Save your completed lab as a PDF
+and submit to [gradescope.com](https://www.gradescope.com)
+(directions included at end of each lab)
+
 AB. (2.7) https://mybinder.org/v2/gh/anniebmcc/pycalclab/master?filepath=mat301a.ipynb  
 CD. (2.14)  
 EF. (2.21)  
