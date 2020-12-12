@@ -9,7 +9,7 @@
 1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/) and change your password
 
 # Weekly Requirements
-1. **Reading** due Sunday on Perusall _starting 2.7_
+1. **Reading annotations** due Sunday on Perusall _starting 2.7_
 1. **Lectures** due Sunday _starting 2.7_
 1. **Checkin signup** due Sunday _starting 2.7_
 1. **Checkin** ![other](../other.png) _starting week of 2.8_
@@ -25,7 +25,11 @@
 1. Drop deadline = 2.18
 1. Withdraw deadline = 5.17
 
-# Lectures
+# Reading and Lecture Schedule
+Watch the lecture recordings 
+and do the corresponding reading on Perusall
+by the dates below.
+
 `A`. (2.7) [Recording 1] [2] [3] [Notes 1] [2] [3]  
 `B`. (2.7)  
 `C`. (2.14)  
@@ -40,20 +44,20 @@
 `L`. (3.14)  
 `M`. (3.21)  
 `N`. (3.21)  
-`O`. (4.11)  
-`P`. (4.11)  
-`Q`. (4.18)  
-`R`. (4.18)  
-`S`. (4.25)  
-`T`. (4.25)  
-`U`. (5.2)  
-`V`. (5.2)  
-`W`. (5.9)  
-`X`. (5.9)  
-`Y`. (5.16)  
-`Z`. (5.16)  
+`O`. (4.7)  
+`P`. (4.7)  
+`Q`. (4.11)  
+`R`. (4.11)  
+`S`. (4.18)  
+`T`. (4.18)  
+`U`. (4.25)  
+`V`. (4.25)  
+`W`. (5.2)  
+`X`. (5.2)  
+`Y`. (5.9)  
+`Z`. (5.9)  
 
-# Labs
+# Lab and Problem Set Schedule
 1. Click on the lab for the week
 1. Wait for the notebook to load
 (server can take up to 5 minutes to spin up)
@@ -62,13 +66,17 @@
 and submit to [gradescope.com](https://www.gradescope.com)
 (directions included at end of each lab)
 
-`AB`. (2.7) https://mybinder.org/v2/gh/anniebmcc/pycalclab/master?filepath=mat301a.ipynb  
-`CD`. (2.14)  
-`EF`. (2.21)  
-`GH`. (2.28)  
-`IJ`. (3.7)  
-`KL`. (3.14)  
-`MN`. (3.21)  
+Submit the lab on Gradescope
+and do the corresponding problemsets on WeBWorK
+by the dates below.
+
+`AB`. (2.14) https://mybinder.org/v2/gh/anniebmcc/pycalclab/master?filepath=mat301a.ipynb  
+`CD`. (2.21)  
+`EF`. (2.28)  
+`GH`. (3.7)  
+`IJ`. (3.14)  
+`KL`. (3.21)  
+`MN`. (3.28)  
 `OP`. (4.11)  
 `QR`. (4.18)  
 `ST`. (4.25)  
