@@ -1,18 +1,20 @@
 # Introduction to Statistics
 
 # Day 1 Checklist
-1. Confirm your email address(s): [emails.txt](./emails.txt). If incorrect, submit correction here: [googleform]
+1. Confirm your email addresses here: [emails.txt](./emails.txt).  
+   Submit corrections here: [googleform]
 1. Download zoom and create free account
-1. Create free [perusall.com](https://www.perusall.com) account and add course ######
-1. Create free [gradescope.com](https://www.gradescope.com) account and add course ######
+1. Create free [Perusall.com](https://www.perusall.com) account and add course ######
+1. Create free [Gradescope.com](https://www.gradescope.com) account and add course ######
+1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/) and change your password
 
 # Weekly Requirements
-1. Reading comments _due Sunday_ [(perusall.com)](https://www.perusall.com)
-1. Lectures _due Sunday_
-1. Problemset _due Sunday_ [(math.csi.cuny.edu/webwork2/)](https://www.math.csi.cuny.edu/webwork2/)
-1. Lab _due Sunday_
-1. Checkin _signup due Sunday_ (signup emailed weekly)  
-![other](../other.png)
+1. **Reading** due Sunday on Perusall _starting 2.7_
+1. **Lectures** due Sunday _starting 2.7_
+1. **Checkin signup** due Sunday _starting 2.7_
+1. **Checkin** ![other](../other.png) _starting week of 2.8_
+1. **Problemset** due Sunday on WeBWorK _starting 2.14_
+1. **Lab** due Sunday on Gradescope _starting 2.14_
 
 # Grade
 `Coursework = AVG(Reading, Problemset, Lab, Checkin)`  
