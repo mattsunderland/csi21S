@@ -1,4 +1,8 @@
 # Introduction to Statistics
+City University of New York - College of Staten Island - 2021 Spring  
+Math 113/21204 MW 2:30-4:25  
+Dr Matthew Han-Jing Sunderland  
+![other](../other2.png)
 
 # Day 1 Checklist
 1. Confirm your email addresses here: [emails.txt](./emails.txt).  
@@ -9,12 +13,12 @@
 1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/) and change your password
 
 # Weekly Requirements
-1. **Reading annotations** due Sunday on Perusall _starting 2.7_
-1. **Lectures** due Sunday _starting 2.7_
-1. **Checkin signup** due Sunday _starting 2.7_
-1. **Checkin** ![other](../other.png) _starting week of 2.8_
-1. **Problemset** due Sunday on WeBWorK _starting 2.14_
-1. **Lab** due Sunday on Gradescope _starting 2.14_
+1. **Reading annotations** due Sunday on Perusall &emsp; —_starting 2.7_
+1. **Lectures** due Sunday &emsp; —_starting 2.7_
+1. **Checkin signup** due Sunday &emsp; —_starting 2.7_
+1. **Checkin** &emsp; ![other](../other.png) &emsp; —_starting week of 2.8_
+1. **Problemset** due Sunday on WeBWorK &emsp; —_starting 2.14_
+1. **Lab** due Sunday on Gradescope &emsp; —_starting 2.14_
 
 # Grade
 Your grade is the average of **Exam 1**, **Exam 2**, **Final**, and **Coursework**.  
