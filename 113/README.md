@@ -17,8 +17,8 @@
 1. **Lab** due Sunday on Gradescope _starting 2.14_
 
 # Grade
-`Coursework = AVG(Reading, Problemset, Lab, Checkin)`  
-`Grade = AVG(Coursework, Exam 1, Exam 2, Final)`
+Your grade is the average of **Exam 1**, **Exam 2**, **Final**, and **Coursework**.  
+Coursework consists of reading annotations, problemsets, labs, and checkin participation.
 
 # Important Dates
 1. Add deadline = 2.4
@@ -27,7 +27,7 @@
 
 # Reading and Lecture Schedule
 Watch the lecture recordings 
-and do the corresponding reading on Perusall
+and read and annotate the corresponding Perusall
 by the dates below.
 
 `A`. (2.7) [Recording 1] [2] [3] [Notes 1] [2] [3]  
@@ -67,7 +67,7 @@ and submit to [gradescope.com](https://www.gradescope.com)
 (directions included at end of each lab)
 
 Submit the lab on Gradescope
-and do the corresponding problemsets on WeBWorK
+and do the corresponding WeBWorK problemsets
 by the dates below.
 
 `AB`. (2.14) https://mybinder.org/v2/gh/anniebmcc/pycalclab/master?filepath=mat301a.ipynb  
