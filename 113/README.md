@@ -29,6 +29,8 @@ Coursework consists of reading annotations, problemsets, labs, and checkin parti
 1. Drop deadline = 2.18
 1. Withdraw deadline = 5.17
 
+# Helpful Links and Resources
+
 # Reading and Lecture Schedule
 By each Sunday below
 1. Read and annotate the corresponding Perusall
