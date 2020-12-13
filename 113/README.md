@@ -26,9 +26,10 @@ Coursework consists of reading annotations, problemsets, labs, and checkin parti
 1. Withdraw deadline = 5.17
 
 # Reading and Lecture Schedule
-Watch the lecture recordings 
-and read and annotate the corresponding Perusall
-by the dates below.
+By each Sunday below
+1. Read and annotate the corresponding Perusall
+1. Watch the lecture recordings linked below
+1. Review the lecture notes linked below
 
 `A`. (2.7) [Recording 1] [2] [3] [Notes 1] [2] [3]  
 `B`. (2.7)  
@@ -58,17 +59,16 @@ by the dates below.
 `Z`. (5.9)  
 
 # Lab and Problem Set Schedule
-1. Click on the lab for the week
-1. Wait for the notebook to load
-(server can take up to 5 minutes to spin up)
-1. Do the lab
-1. Save your completed lab as a PDF
-and submit to [gradescope.com](https://www.gradescope.com)
-(directions included at end of each lab)
-
-Submit the lab on Gradescope
-and do the corresponding WeBWorK problemsets
-by the dates below.
+By each Sunday below
+1. Do the corresponding problemsets on WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/)
+1. Do the lab linked below
+    1. Click on the lab for the week
+    1. Wait for the notebook to load  
+    (server can take up to 5 minutes to spin up)
+    1. Do the lab
+    1. Save your completed lab as a PDF  
+    and submit to [gradescope.com](https://www.gradescope.com)  
+    (directions included at end of each lab)
 
 `AB`. (2.14) https://mybinder.org/v2/gh/anniebmcc/pycalclab/master?filepath=mat301a.ipynb  
 `CD`. (2.21)  
