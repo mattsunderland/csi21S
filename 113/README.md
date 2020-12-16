@@ -47,6 +47,11 @@ By each Sunday below
 1. **Watch the recordings** linked below
 1. **Review the notes** linked below
 
+  | Due | Topic | Video | Notes
+--- | --- | --- | --- | ---
+A | 2.7 | Population Parameter Sample Statistic | 1 2 3 | 1 2
+B |
+
 `A`. (2.7) [Recording 1] [2] [3] [Notes 1] [2] [3]  
 `B`. (2.7)  
 `C`. (2.14)  
