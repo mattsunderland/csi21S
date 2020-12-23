@@ -10,12 +10,12 @@ Dr Matthew Han-Jing Sunderland
    Submit corrections here: GOOGLEFORM
 1. Fill out the office hour availability survey GOOGLEFORM
 1. Download Zoom and create free account
-1. Create free [Perusall.com](https://www.perusall.com) account and add course ######  
+1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-A8N72  
     You will see the following
     1. OER TEXTBOOK 1
     1. OER TEXTBOOK 2
     1. Z Chart
-1. Create free [Gradescope.com](https://www.gradescope.com) account and add course ######
+1. Create free [Gradescope.com](https://www.gradescope.com) account and add course 5V74JJ  
 1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/Math113_21204_Sunderland_S21/) and change your password
 
 # Weekly Requirements

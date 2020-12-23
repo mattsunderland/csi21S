@@ -8,6 +8,6 @@ Dr Matthew Han-Jing Sunderland
 1. Confirm your email addresses here: [emails.png](./emails.png).  
    Submit corrections here: [googleform]
 1. Download zoom and create free account
-1. Create free [Perusall.com](https://www.perusall.com) account and add course ######
-1. Create free [Gradescope.com](https://www.gradescope.com) account and add course ######
+1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-DBALK  
+1. Create free [Gradescope.com](https://www.gradescope.com) account and add course 74G8DX  
 1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/Math233_21243_Sunderland_S21/) and change your password
