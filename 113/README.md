@@ -5,23 +5,29 @@ Dr Matthew Han-Jing Sunderland
 ![other](../other2.png)
 
 # Day 1 Checklist
-1. Confirm your email addresses here: [emails.png](./emails.png).  
-   Submit corrections here: [googleform]
-1. Download zoom and create free account
-1. Create free [Perusall.com](https://www.perusall.com) account and add course ######
+1. Watch the welcome video LINKHERE
+1. Confirm your email addresses here: [confirm.png](./confirm.png).  
+   Submit corrections here: GOOGLEFORM
+1. Fill out the office hour availability survey GOOGLEFORM
+1. Download Zoom and create free account
+1. Create free [Perusall.com](https://www.perusall.com) account and add course ######  
+    You will see the following
+    1. OER TEXTBOOK 1
+    1. OER TEXTBOOK 2
+    1. Z Chart
 1. Create free [Gradescope.com](https://www.gradescope.com) account and add course ######
 1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/Math113_21204_Sunderland_S21/) and change your password
 
 # Weekly Requirements
-1. **Reading annotations** due Sunday on Perusall &emsp; —_starting 2.7_
-1. **Lectures** due Sunday &emsp; —_starting 2.7_
-1. **Checkin signup** due Sunday &emsp; —_starting 2.7_
-1. **Checkin** &emsp; ![other](../other.png) &emsp; —_starting week of 2.8_
-1. **Problemset** due Sunday on WeBWorK &emsp; —_starting 2.14_
-1. **Lab** due Sunday on Gradescope &emsp; —_starting 2.14_
+1. **Reading annotations** due Sunday on Perusall &emsp; —*starting 2.7*
+1. **Lectures** due Sunday &emsp; —*starting 2.7*
+1. **Checkin signup** due Sunday &emsp; —*starting 2.7*
+1. **Checkin** &emsp; ![other](../other.png) &emsp; —*starting week of 2.8*
+1. **Problemset** due Sunday on WeBWorK &emsp; —*starting 2.14*
+1. **Lab** due Sunday on Gradescope &emsp; —*starting 2.14*
 
 # Grade
-Your grade is the average of **Exam 1**, **Exam 2**, **Final**, and **Coursework**.  
+Your grade is the average of **Midterm 1**, **Midterm 2**, **Final**, and **Coursework**.  
 Coursework consists of reading annotations, problemsets, labs, and checkin participation.
 
 # Important Dates
@@ -29,11 +35,17 @@ Coursework consists of reading annotations, problemsets, labs, and checkin parti
 1. Drop deadline = 2.18
 1. Withdraw deadline = 5.17
 
+# Helpful Links and Resources
+
 # Reading and Lecture Schedule
 By each Sunday below
-1. Read and annotate the corresponding Perusall
-1. Watch the lecture recordings linked below
-1. Review the lecture notes linked below
+
+1. Go to [Perusall.com](https://www.perusall.com) and **do the reading**. Make the minimum number of annotations:
+    1. Highlight interesting passages and type in comments and questions
+    1. Click on classmates' highlights and add to the discussion
+    1. Click on the instructor's highlights (if any) and add to the discussion.
+1. **Watch the recordings** linked below
+1. **Review the notes** linked below
 
 `A`. (2.7) [Recording 1] [2] [3] [Notes 1] [2] [3]  
 `B`. (2.7)  
@@ -43,12 +55,14 @@ By each Sunday below
 `F`. (2.21)  
 `G`. (2.28)  
 `H`. (2.28)  
+`A-G`. (2.28) Midterm 1  
 `I`. (3.7)  
 `J`. (3.7)  
 `K`. (3.14)  
 `L`. (3.14)  
 `M`. (3.21)  
 `N`. (3.21)  
+`H-N`. (3.28) Midterm 2  
 `O`. (4.7)  
 `P`. (4.7)  
 `Q`. (4.11)  
@@ -61,18 +75,22 @@ By each Sunday below
 `X`. (5.2)  
 `Y`. (5.9)  
 `Z`. (5.9)  
+`A-Z`. (TBD) Final  
 
 # Lab and Problem Set Schedule
 By each Sunday below
-1. Do the corresponding problemsets on WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/)
-1. Do the lab linked below
-    1. Click on the lab for the week
-    1. Wait for the notebook to load  
-    (server can take up to 5 minutes to spin up)
-    1. Do the lab
-    1. Save your completed lab as a PDF  
-    and submit to [gradescope.com](https://www.gradescope.com)  
-    (directions included at end of each lab)
+
+1. Go to [WeBWorK](https://www.math.csi.cuny.edu/webwork2/) and **do the problemset**
+1. **Do the lab** linked below
+    * If it is a Jupyter notebook:
+        1. Wait for the notebook to load (server can take up to 5 minutes to spin up)
+        1. Complete the lab
+        1. Save your completed lab as a PDF and submit to *Gradescope*. Directions included at end of each jupyter lab
+    * If the lab is a PDF worksheet:
+        1. Download the worksheet to your computer
+        1. Open it in a program that lets you mark it up (eg, macOS Preview, Notability, etc)
+        1. Complete the worksheet
+        1. Save your completed lab as a PDF and submit to *Gradescope*
 
 `AB`. (2.14) https://mybinder.org/v2/gh/anniebmcc/pycalclab/master?filepath=mat301a.ipynb  
 `CD`. (2.21)  
