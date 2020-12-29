@@ -6,15 +6,20 @@ Dr Matthew Han-Jing Sunderland
 
 # Day 1 Checklist
 1. Watch the welcome video LINKHERE
-1. Confirm your email addresses here: [confirm.png](./confirm.png).  
-   Submit corrections here: GOOGLEFORM
 1. Fill out the office hour availability survey GOOGLEFORM
 1. Download Zoom and create free account
 1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-A8N72  
-    You will see the following
-    1. OER TEXTBOOK 1
-    1. OER TEXTBOOK 2
-    1. Z Chart
+   You will see the following
+   1. *Roster*
+   1. *OER TEXTBOOK 1*
+   1. *OER TEXTBOOK 2*
+   1. *Z Chart*
+1. Log into Perusall and open *Roster*
+   1. If your email is incorrect, highlight it and type in a correction
+   1. Highlight your name and introduce yourself  
+      (eg, where you are from, what you want to major in, a hobby or fun fact about yourself)
+   1. (Optional) Click on one other person's introduction and type a comment  
+      (eg, you're also from there, have the same major, enjoy the same hobby, etc)
 1. Create free [Gradescope.com](https://www.gradescope.com) account and add course 5V74JJ  
 1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/Math113_21204_Sunderland_S21/) and change your password
 
