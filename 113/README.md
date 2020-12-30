@@ -112,6 +112,18 @@ By each Sunday below
 `YZ`. (5.16)  
 
 # Webwork Exam Tips
-![Answers are saved automatically when you type them. Click "preview" to see any helpful messages. DO NOT click "grade" until done with ALL questions.](../webwork2.png)
+
+1. Go to "Homework Sets" and **click "Take Midterm 1 test" to take or retake Midterm 1**.
+1. Click "Midterm 1 (test 1)" to review previous attempt 1, click "Midterm 1 (test 2)" to review previous attempt 2, etc.
 
 ![Click "Take Midterm 1 test" to take or retake Midterm 1. Click "Midterm 1 (test 1)" to review previous attempt (attempt 1)](../webwork1.png)
+
+3. Answers are saved automatically when you type them. After you have typed in your answer to one problem, just click on the next problem you want to do.
+1. Click "preview" to see messages, if any, about the format of your answer.
+1. **DO NOT click "grade" until done with ALL questions.**
+
+![Answers are saved automatically when you type them. Click "preview" to see any helpful messages. DO NOT click "grade" until done with ALL questions.](../webwork2.png)
+
+6. A yellow banner means this attempt is already submitted: no changes are possible. You may review your recorded answers and the correct answers for this attempt. To retake the exam, go back to the "Homework sets" page.
+
+![Yellow banner means this attempt is already submitted, no changes are possible.](../webwork3.png)
