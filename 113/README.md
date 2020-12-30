@@ -105,3 +105,8 @@ By each Sunday below
 `UV`. (5.2)  
 `WX`. (5.9)  
 `YZ`. (5.16)  
+
+# Webwork Exam Tips
+![Answers are saved automatically when you type them. Click "preview" to see any helpful messages. DO NOT click "grade" until done with ALL questions.](../webwork2.png)
+
+![Click "Take Midterm 1 test" to take or retake Midterm 1. Click "Midterm 1 (test 1)" to review previous attempt (attempt 1)](../webwork1.png)
