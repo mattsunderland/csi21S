@@ -27,7 +27,7 @@ Dr Matthew Han-Jing Sunderland
 1. **Reading annotations** due Sunday on Perusall &emsp; —*starting 2.7*
 1. **Lectures** due Sunday &emsp; —*starting 2.7*
 1. **Checkin signup** due Sunday &emsp; —*starting 2.7*
-1. **Checkin** &emsp; ![other](../other.png) &emsp; —*starting week of 2.8*
+1. **Checkin** &emsp; ![other](../other.png) &emsp; —*starting 2.8*
 1. **Problemset** due Sunday on WeBWorK &emsp; —*starting 2.14*
 1. **Lab** due Sunday on Gradescope &emsp; —*starting 2.14*
 
