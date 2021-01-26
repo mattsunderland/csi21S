@@ -20,6 +20,7 @@ unless excused.
    1. *Z Chart*
 1. Log into Perusall and open *Roster*
    1. If your email is incorrect, highlight it and type in a correction
+   1. If you are registered but not on this document, highlight the next row at the bottom and type in your name and email
    1. Highlight your name and introduce yourself  
       (eg, where you are from, what you want to major in, a hobby or fun fact about yourself)
    1. (Optional) Click on one other person's introduction and type a comment  
