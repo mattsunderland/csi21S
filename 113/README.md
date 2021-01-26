@@ -1,12 +1,16 @@
 # Introduction to Statistics
 City University of New York - College of Staten Island - 2021 Spring  
-Math 113/21204 MW 2:30-4:25  
+Math 113/21204 M<s>W</s> 2:30-4:25\*  
 Dr Matthew Han-Jing Sunderland  
 ![other](../other2.png)
 
+\*Note: Class is semi-asynchronous.  
+Lectures are prerecorded,  
+but all students must come to weekly checkin  
+live on zoom **Mondays at 2:30**  
+unless excused.
+
 # Day 1 Checklist
-1. Watch the welcome video LINKHERE
-1. Fill out the office hour availability survey GOOGLEFORM
 1. Download Zoom and create free account
 1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-A8N72  
    You will see the following
@@ -26,8 +30,8 @@ Dr Matthew Han-Jing Sunderland
 # Weekly Requirements
 1. **Reading annotations** due Sunday on Perusall &emsp; —*starting 2.7*
 1. **Lectures** due Sunday &emsp; —*starting 2.7*
-1. **Checkin signup** due Sunday &emsp; —*starting 2.7*
-1. **Checkin** &emsp; ![other](../other.png) &emsp; —*starting 2.8*
+1. **Checkin** Mondays 2:30  &emsp; ![other](../other.png) &emsp; —*starting 2.8*
+   1. Students that score 90+ on Sunday's Perusall and WeBWorK are excused from that Monday's checkin.
 1. **Problemset** due Sunday on WeBWorK &emsp; —*starting 2.14*
 1. **Lab** due Sunday on Gradescope &emsp; —*starting 2.14*
 
