@@ -5,12 +5,16 @@ Dr Matthew Han-Jing Sunderland
 ![other](../other2.png)
 
 # Day 1 Checklist
-1. Confirm your email addresses here: [emails.png](./emails.png).  
-   Submit corrections here: [googleform]
-1. Download zoom and create free account
-1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-FFFNG  
-1. Create free [Gradescope.com](https://www.gradescope.com) account and add course 3YJ7PJ  
-1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/Math218_21451_Sunderland_S21/) and change your password
+1. Log into Blackboard, click on our course, find Blackboard Collaborate
+1. Create free [Gradescope.com](https://www.gradescope.com) account and add course 3YJ7PJ 
+1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-FFFNG   
+   You will see the following
+   1. *Roster*
+   1. *Mathematics for Elementary Teachers with Activities (old v1), 5e, Beckmann, Pearson*  
+      $73.33 USD | Perpetual online access (ISBN 9780134496443-old) Reflowable text  
+      $48.87 USD | 180-day online access (ISBN 9780134506609-old) Reflowable text  
+1. Log into Perusall and open *Roster*  
+   If your email is incorrect: highlight it, type correction
 
 # Schedule
 |   | Reading due | Lecture date | Topic | Suggested activities, exercises, problems |
