@@ -5,8 +5,9 @@ Dr Matthew Han-Jing Sunderland
 ![other](../other2.png)
 
 # Day 1 Checklist
-1. Log into Blackboard, click on our course, find Blackboard Collaborate
-1. Create free [Gradescope.com](https://www.gradescope.com) account and add course 3YJ7PJ 
+1. Log into Blackboard, click on our course, make sure you can find Blackboard Collaborate
+1. Create free [Gradescope.com](https://www.gradescope.com) account and add course 3YJ7PJ.  
+   (Later on this is where you will submit exams.)
 1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-FFFNG   
    You will see the following
    1. *Roster*
@@ -15,6 +16,21 @@ Dr Matthew Han-Jing Sunderland
       $48.87 USD | 180-day online access (ISBN 9780134506609-old) Reflowable text  
 1. Log into Perusall and open *Roster*  
    If your email is incorrect: highlight it, type correction
+
+# Weekly Requirements
+1. **Synchronous Lecture** Monday & Wednesday on Blackboard Collaborate &emsp; —*starting 2.1*
+1. **Reading annotations** due Sunday on Perusall &emsp; —*starting 2.7*
+
+# Grade
+Your grade is the average of **Exam 1**, **Exam 2**, **Exam 3**, **Final**, and **Coursework**.  
+Coursework consists of lecture participation (just be there and engaged) and reading annotations.
+
+# Important Dates
+1. Add deadline = 2.4
+1. Drop deadline = 2.18
+1. Withdraw deadline = 5.17
+
+# Helpful Links and Resources
 
 # Schedule
 |   | Reading due | Lecture date | Topic | Suggested activities, exercises, problems |
