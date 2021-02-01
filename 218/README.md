@@ -4,18 +4,19 @@ SLS 218/21451 MW 12:20-2:15
 Dr Matthew Han-Jing Sunderland  
 ![other](../other2.png)
 
+Office hours: to be determined
+
 # Day 1 Checklist
-1. Log into Blackboard, click on our course, make sure you can find Blackboard Collaborate
+1. Log into CunyFirst and make sure your preferred email is correct  
+   (home.cunyfirst.cuny.edu > Self Service > Personal Information)
+1. Log into Blackboard, click our course, make sure you can find Blackboard Collaborate
 1. Create free [Gradescope.com](https://www.gradescope.com) account and add course 3YJ7PJ.  
    (Later on this is where you will submit exams.)
 1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-FFFNG   
-   You will see the following
-   1. *Roster*
+   You will see the one text
    1. *Mathematics for Elementary Teachers with Activities (old v1), 5e, Beckmann, Pearson*  
       $73.33 USD | Perpetual online access (ISBN 9780134496443-old) Reflowable text  
       $48.87 USD | 180-day online access (ISBN 9780134506609-old) Reflowable text  
-1. Log into Perusall and open *Roster*  
-   If your email is incorrect: highlight it, type correction
 
 # Weekly Requirements
 1. **Synchronous Lecture** Monday & Wednesday on Blackboard Collaborate &emsp; —*starting 2.1*
