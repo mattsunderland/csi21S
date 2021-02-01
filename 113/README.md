@@ -1,14 +1,9 @@
 # Introduction to Statistics
 City University of New York - College of Staten Island - 2021 Spring  
-Math 113/21204 M<s>W</s> 2:30-4:25\*  
+Math 113/21204 MW 2:30-4:25  
 Dr Matthew Han-Jing Sunderland  
 ![other](../other2.png)
 
-\*Note: Class is semi-asynchronous.  
-Lectures are prerecorded,  
-but all students must come to weekly checkin  
-live on zoom **Mondays at 2:30**  
-unless excused.
 
 # Day 1 Checklist
 1. Download Zoom and create free account
@@ -49,36 +44,63 @@ Coursework consists of reading annotations, problemsets, labs, and checkin parti
 
 
 # Schedule
-|   | Reading due | Lecture date | Problemset due | Topic | Suggested activities, exercises, problems |
-| - | ---- | ---- | - | - | - |
-| A |      | 2.1  |  |
-|   |      | 2.3  |  |
-| B | 2.7  | 2.8  |  |
-| C | 2.7  | 2.10 |  |
-| D | 2.14 | 2.17 |  |
-| E | 2.21 | 2.22 |  |
-|   |      | 2.24 |  |
+|   | Reading due | Lecture date | Problemset due | Topic |
+| - | ---- | ---- | - | - |
+| A |      | 2.1  |  | Population and Sample |
+|   |      |      |  | Data type |
+|   |      | 2.3  |  | Frequency table |
+|   |      |      |  | Lab 1 |
+| B | 2.7  | 2.8  |  | Histogram |
+|   |      |      |  | Mean |
+| C | 2.7  | 2.10 |  | Standard deviation |
+|   |      |      |  | Lab 2 |
+| D | 2.14 | 2.17 |  | Boxplot |
+|   |      |      |  | Correlation |
+| E | 2.21 | 2.22 |  | Regression |
+|   |      |      |  | Review |
+|   |      | 2.24 |  | Exam 1 |
 |   |      | 3.1  |  |
+|   |      |      |  |
 |   | 2.28 | 3.3  |  |
+|   |      |      |  |
 | I | 3.7  | 3.8  |  |
+|   |      |      |  |
 | J | 3.7  | 3.10 |  |
+|   |      |      |  |
 | K | 3.14 | 3.15 |  |
+|   |      |      |  |
 | L | 3.14 | 3.17 |  |
+|   |      |      |  |
 | M | 3.21 | 3.22 |  |
+|   |      |      |  |
 |   |      | 3.24 |  |
+|   |      |      |  |
 | N | 4.4  | 4.5  |  |
+|   |      |      |  |
 |   | 4.4  | 4.7  |  |
+|   |      |      |  |
 | P | 4.11 | 4.12 |  |
+|   |      |      |  |
 | Q | 4.11 | 4.14 |  |
+|   |      |      |  |
 |   | 4.18 | 4.19 |  |
+|   |      |      |  |
 |   | 4.18 | 4.21 |  |
+|   |      |      |  |
 |   | 4.25 | 4.26 |  |
+|   |      |      |  |
 |   | 4.25 | 4.28 |  |
+|   |      |      |  |
 |   |      | 5.3  |  |
+|   |      |      |  |
 |   |      | 5.5  |  |
+|   |      |      |  |
 |   |      | 5.10 |  |
+|   |      |      |  |
 |   |      | 5.12 |  |
+|   |      |      |  |
 |   |      | 5.17 |  |
+|   |      |      |  |
 |   |      | TBD  | Final |
 |   |      |      |  |
 
