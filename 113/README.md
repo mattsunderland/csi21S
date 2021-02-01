@@ -104,6 +104,7 @@ Coursework consists of reading annotations, problemsets, labs, and checkin parti
 |   |      | TBD  | Final |
 |   |      |      |  |
 
+<!--
 # Reading and Lecture Schedule
 By each Sunday below
 
@@ -173,7 +174,6 @@ By each Sunday below
 `WX`. (5.9)  
 `YZ`. (5.16)  
 
-<!--
 # Webwork Exam Tips
 
 1. Go to "Homework Sets" and **click "Take Midterm 1 test" to take or retake Midterm 1**.
