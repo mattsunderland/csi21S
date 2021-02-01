@@ -20,7 +20,7 @@ Office hours: to be determined
 1. **Synchronous Lecture** Monday & Wednesday on Blackboard Collaborate &emsp; —*starting 2.1*
 1. **Reading annotations** due Sunday on Perusall &emsp; —*starting 2.7*
 1. **Problemset** due Sunday on WeBWorK &emsp; —*starting 2.14*
-1. **Lab** due Sunday on Gradescope &emsp; —*starting 2.14*
+1. **Lab** due Sunday on Gradescope &emsp; —*starting 2.21*
 
 # Grade
 Your grade is the average of **Exam 1**, **Exam 2**, **Final**, and **Coursework**.  
