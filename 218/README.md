@@ -7,9 +7,8 @@ Dr Matthew Han-Jing Sunderland
 Office hours: to be determined
 
 # Day 1 Checklist
-1. Log into CunyFirst and make sure your preferred email is correct  
-   (home.cunyfirst.cuny.edu > Self Service > Personal Information)
-1. Log into Blackboard, click our course, make sure you can find Blackboard Collaborate
+1. Confirm your preferred email on CunyFirst > Self Service > Personal Info
+1. Confirm you can log into Blackboard > This course > Blackboard Collaborate
 1. Create free [Gradescope.com](https://www.gradescope.com) account and add course 3YJ7PJ.  
    (Later on this is where you will submit exams.)
 1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-FFFNG   
