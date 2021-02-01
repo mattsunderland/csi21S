@@ -4,9 +4,17 @@ Math 233/21243 MW 6:30-8:10
 Dr Matthew Han-Jing Sunderland  
 ![other](../other2.png)
 
+Office hours: to be determined
+
 # Day 1 Checklist
-1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-DBALK  
+1. Confirm your preferred email on CunyFirst > Self Service > Personal Info
+1. Confirm you can log into Blackboard > This course > Blackboard Collaborate
 1. Create free [Gradescope.com](https://www.gradescope.com) account and add course 74G8DX  
+   (This is where you will submit exams and labs.)  
+1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-DBALK  
+   You will see the following
+   1. *Calculus Volume 3, OpenStax*
+1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/Math233_21243_Sunderland_S21/) and change your password  
 
 # Schedule
 \*HW means any WeBWorK problem sets and/or Labs corresponding to the topic
