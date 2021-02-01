@@ -59,50 +59,38 @@ Coursework consists of reading annotations, problemsets, labs, and checkin parti
 | E | 2.21 | 2.22 |  | Regression |
 |   |      |      |  | Review |
 |   |      | 2.24 |  | Exam 1 |
-|   |      | 3.1  |  |
-|   |      |      |  |
-|   | 2.28 | 3.3  |  |
-|   |      |      |  |
-| I | 3.7  | 3.8  |  |
-|   |      |      |  |
-| J | 3.7  | 3.10 |  |
-|   |      |      |  |
-| K | 3.14 | 3.15 |  |
-|   |      |      |  |
-| L | 3.14 | 3.17 |  |
-|   |      |      |  |
-| M | 3.21 | 3.22 |  |
-|   |      |      |  |
-|   |      | 3.24 |  |
-|   |      |      |  |
-| N | 4.4  | 4.5  |  |
-|   |      |      |  |
-|   | 4.4  | 4.7  |  |
-|   |      |      |  |
-| P | 4.11 | 4.12 |  |
-|   |      |      |  |
-| Q | 4.11 | 4.14 |  |
-|   |      |      |  |
-|   | 4.18 | 4.19 |  |
-|   |      |      |  |
-|   | 4.18 | 4.21 |  |
-|   |      |      |  |
-|   | 4.25 | 4.26 |  |
-|   |      |      |  |
-|   | 4.25 | 4.28 |  |
-|   |      |      |  |
-|   |      | 5.3  |  |
-|   |      |      |  |
-|   |      | 5.5  |  |
-|   |      |      |  |
-|   |      | 5.10 |  |
-|   |      |      |  |
-|   |      | 5.12 |  |
-|   |      |      |  |
-|   |      | 5.17 |  |
-|   |      |      |  |
-|   |      | TBD  | Final |
-|   |      |      |  |
+|   |      | 3.1  |  | Probability |
+|   |      |      |  | Add rule and multiply rule |
+|   | 2.28 | 3.3  |  | Complement and conditional probability |
+|   |      |      |  | Lab 3 |
+| I | 3.7  | 3.8  |  | Counting principle |
+|   |      |      |  | Probability distributions |
+| J | 3.7  | 3.10 |  | Binomials |
+|   |      |      |  | Standard normal |
+| K | 3.14 | 3.15 |  | Normals |
+|   |      |      |  | Sampling distributions |
+| L | 3.14 | 3.17 |  | CLT |
+|   |      |      |  | Lab 4 |
+| M | 3.21 | 3.22 |  | Review |
+|   |      | 3.24 |  | Exam 2 |
+| N | 4.4  | 4.5  |  | Estimate p |
+|   |      |      |  | Estimate mu |
+|   | 4.4  | 4.7  |  | Test p |
+|   |      |      |  | Lab 5 |
+| P | 4.11 | 4.12 |  | Test mu |
+| Q | 4.11 | 4.14 |  | Lab 6 |
+|   | 4.18 | 4.19 |  | Test p1, p2 |
+|   | 4.18 | 4.21 |  | Lab 7 |
+|   | 4.25 | 4.26 |  | Test mu1, mu2 for independent samples |
+|   |      |      |  | Test mu1, mu2 for matched pairs |
+|   | 4.25 | 4.28 |  | Lab 8 |
+|   |      | 5.3  |  | Goodness of fit |
+|   |      |      |  | Contingency tables |
+|   |      | 5.5  |  | Lab 9 |
+|   |      | 5.10 |  | Review |
+|   |      | 5.12 |  | Exam 3 |
+|   |      | 5.17 |  | Review |
+|   |      | TBD  |  | Final |
 
 <!--
 # Reading and Lecture Schedule
