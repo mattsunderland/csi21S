@@ -38,37 +38,37 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 # Schedule
 \*HW means any WeBWorK problem sets and/or Labs corresponding to the topic
 
-|   | Reading due | Lecture date | HW* due | Topic |
-| - | ---- | ---- | ---- | - |
-| A |      | 2.1  | 2.14 | Population and Sample. Data type. |
-| B |      | 2.3  | 2.14 | Frequency table. **Lab 1.** |
-| C | 2.7  | 2.8  | 2.21 | Histogram. Mean. |
-| D | 2.7  | 2.10 | 2.21 | Standard deviation. **Lab 2.** |
-| E | 2.14 | 2.17 | 2.28 | Boxplot. Correlation. |
-| F | 2.21 | 2.22 | 3.7  | Regression. **Review.** |
-|   |      | 2.24 |      | **Exam 1** |
-| G | 2.28 | 3.1  | 3.14 | Probability. Add rule and multiply rule |
-| H | 2.28 | 3.3  | 3.14 | Complement and conditional probability | Lab 3 |
-| I | 3.7  | 3.8  | 3.21 | Counting principle. Probability distributions |
-| J | 3.7  | 3.10 | 3.21 | Binomials. Standard normal. |
-| K | 3.14 | 3.15 | 4.4  | Normals. Sampling distributions. |
-| L | 3.14 | 3.17 | 4.4  | CLT. **Lab 4.** |
-|   |      | 3.22 |      | **Review** |
-|   |      | 3.24 |      | **Exam 2** |
-| M | 4.4  | 4.5  | 4.18 | Estimate p. Estimate mu. |
-|   | 4.4  | 4.7  | 4.18 | **Lab 5.** |
-| N | 4.11 | 4.12 | 4.25 | Testing p. Testing mu |
-|   | 4.11 | 4.14 | 4.25 | **Lab 6.** |
-| O | 4.18 | 4.19 | 5.2  | Testing p1,p2 |
-|   | 4.18 | 4.21 | 5.2  | **Lab 7.** |
-| P | 4.25 | 4.26 | 5.9  | Testing mu1, mu2 for independent samples. Testing mu1, mu2 for matched pairs. |
-|   | 4.25 | 4.28 | 5.9  | **Lab 8.** |
-| Q |      | 5.3  | 5.16 | Goodness of fit. Contingency tables |
-|   |      | 5.5  | 5.16 | **Lab 9.** |
-|   |      | 5.10 |      | **Review** |
-|   |      | 5.12 |      | **Exam 3** |
-|   |      | 5.17 |      | **Review** |
-|   |      | TBD  |      | **Final** |
+| | Reading due | Lecture date | HW* due | Topic |
+| --- | ---- | ---- | ---- | - |
+| A,B |      | 2.1  | 2.14 | Population and Sample. Data type. |
+| C   |      | 2.3  | 2.14 | Frequency table. **Lab 1.** |
+| D,E | 2.7  | 2.8  | 2.21 | Histogram. Mean. |
+| F   | 2.7  | 2.10 | 2.21 | Standard deviation. **Lab 2.** |
+| G,H | 2.14 | 2.17 | 2.28 | Boxplot. Correlation. |
+| I   | 2.21 | 2.22 | 3.7  | Regression. **Review.** |
+|     |      | 2.24 |      | **Exam 1** |
+| J,K | 2.28 | 3.1  | 3.14 | Probability. Add rule and multiply rule |
+| L   | 2.28 | 3.3  | 3.14 | Complement and conditional probability | Lab 3 |
+| M,N | 3.7  | 3.8  | 3.21 | Counting principle. Probability distributions |
+| O,P | 3.7  | 3.10 | 3.21 | Binomials. Standard normal. |
+| Q,R | 3.14 | 3.15 | 4.4  | Normals. Sampling distributions. |
+| S   | 3.14 | 3.17 | 4.4  | CLT. **Lab 4.** |
+|     |      | 3.22 |      | **Review** |
+|     |      | 3.24 |      | **Exam 2** |
+| T,U | 4.4  | 4.5  | 4.18 | Estimate p. Estimate µ. |
+|     | 4.4  | 4.7  | 4.18 | **Lab 5.** |
+| V,W | 4.11 | 4.12 | 4.25 | Testing p. Testing µ |
+|     | 4.11 | 4.14 | 4.25 | **Lab 6.** |
+| X   | 4.18 | 4.19 | 5.2  | Testing p₁ p₂ |
+|     | 4.18 | 4.21 | 5.2  | **Lab 7.** |
+| Y,Z | 4.25 | 4.26 | 5.9  | Testing µ₁ µ₂ for independent samples. Testing µ₁ µ₂ for matched pairs. |
+|     | 4.25 | 4.28 | 5.9  | **Lab 8.** |
+|AA,AB|      | 5.3  | 5.16 | Goodness of fit. Contingency tables |
+|     |      | 5.5  | 5.16 | **Lab 9.** |
+|     |      | 5.10 |      | **Review** |
+|     |      | 5.12 |      | **Exam 3** |
+|     |      | 5.17 |      | **Review** |
+|     |      | TBD  |      | **Final**  |
 
 <!--
 # Reading and Lecture Schedule
