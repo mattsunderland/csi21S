@@ -16,6 +16,21 @@ Office hours: to be determined
    1. *Calculus Volume 3, OpenStax*
 1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/Math233_21243_Sunderland_S21/) and change your password  
 
+# Weekly Requirements
+1. **Synchronous Lecture** Monday & Wednesday on Blackboard Collaborate &emsp; —*starting 2.1*
+1. **Reading annotations** due Sunday on Perusall &emsp; —*starting 2.7*
+1. **Problemset** due Sunday on WeBWorK &emsp; —*starting 2.14*
+1. **Lab** due Sunday on Gradescope &emsp; —*starting 2.14*
+
+# Grade
+Your grade is the average of **Exam 1**, **Exam 2**, **Final**, and **Coursework**.  
+Coursework consists of lecture participation (just be there and engaged) and reading annotations, problemsets, and labs.
+
+# Important Dates
+1. Add deadline = 2.4
+1. Drop deadline = 2.18
+1. Withdraw deadline = 5.17
+
 # Schedule
 \*HW means any WeBWorK problem sets and/or Labs corresponding to the topic
 
