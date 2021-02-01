@@ -16,7 +16,8 @@ Office hours: to be determined
    1. *Introductory Statistics, OpenStax*
    1. *Standard Normal Chart*
 1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/Math113_21204_Sunderland_S21/) and change your password  
-   <s>NOTE: WEBWORK ROSTER NOT UPLOADED YET. WILL BE READY WEDNESDAY.</s> _Roster is uploaded: you can log in now._
+   <s>NOTE: WEBWORK ROSTER NOT UPLOADED YET. WILL BE READY WEDNESDAY.</s>   
+   _Roster is uploaded: you can log in now._
 
 # Weekly Requirements
 1. **Synchronous Lecture** Monday & Wednesday on Blackboard Collaborate &emsp; —*starting 2.1*
@@ -33,7 +34,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 1. Drop deadline = 2.18
 1. Withdraw deadline = 5.17
 
-# Helpful Links and Resources
+<!-- # Helpful Links and Resources -->
 
 # Schedule
 \*HW means any WeBWorK problem sets and/or Labs corresponding to the topic
