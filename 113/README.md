@@ -4,36 +4,28 @@ Math 113/21204 MW 2:30-4:25
 Dr Matthew Han-Jing Sunderland  
 ![other](../other2.png)
 
+Office hours: to be determined
 
 # Day 1 Checklist
-1. Download Zoom and create free account
+1. Confirm your preferred email on CunyFirst > Self Service > Personal Info
+1. Confirm you can log into Blackboard > This course > Blackboard Collaborate
+1. Create free [Gradescope.com](https://www.gradescope.com) account and add course 5V74JJ  
+   (This is where you will submit exams and labs.)
 1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-A8N72  
    You will see the following
-   1. *Roster*
-   1. *OER TEXTBOOK 1*
-   1. *OER TEXTBOOK 2*
+   1. *Introductory Statistics, OpenStax*
    1. *Z Chart*
-1. Log into Perusall and open *Roster*
-   1. If your email is incorrect, highlight it and type in a correction
-   1. If you are registered but not on this document, highlight the next row at the bottom and type in your name and email
-   1. Highlight your name and introduce yourself  
-      (eg, where you are from, what you want to major in, a hobby or fun fact about yourself)
-   1. (Optional) Click on one other person's introduction and type a comment  
-      (eg, you're also from there, have the same major, enjoy the same hobby, etc)
-1. Create free [Gradescope.com](https://www.gradescope.com) account and add course 5V74JJ  
 1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/Math113_21204_Sunderland_S21/) and change your password
 
 # Weekly Requirements
+1. **Synchronous Lecture** Monday & Wednesday on Blackboard Collaborate &emsp; —*starting 2.1*
 1. **Reading annotations** due Sunday on Perusall &emsp; —*starting 2.7*
-1. **Lectures** due Sunday &emsp; —*starting 2.7*
-1. **Checkin** Mondays 2:30  &emsp; ![other](../other.png) &emsp; —*starting 2.8*
-   1. Students that score 90+ on Sunday's Perusall and WeBWorK are excused from that Monday's checkin.
 1. **Problemset** due Sunday on WeBWorK &emsp; —*starting 2.14*
 1. **Lab** due Sunday on Gradescope &emsp; —*starting 2.14*
 
 # Grade
-Your grade is the average of **Midterm 1**, **Midterm 2**, **Final**, and **Coursework**.  
-Coursework consists of reading annotations, problemsets, labs, and checkin participation.
+Your grade is the average of **Exam 1**, **Exam 2**, **Exam 3**, **Final**, and **Coursework**.  
+Coursework consists of lecture participation (just be there and engaged) and reading annotations, problemsets, and labs.
 
 # Important Dates
 1. Add deadline = 2.4
@@ -41,7 +33,6 @@ Coursework consists of reading annotations, problemsets, labs, and checkin parti
 1. Withdraw deadline = 5.17
 
 # Helpful Links and Resources
-
 
 # Schedule
 |   | Reading due | Lecture date | Problemset due | Topic |
