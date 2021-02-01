@@ -36,7 +36,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 
 | | Reading due | Lecture date | HW\* due | Topic |
 | --- | ---- | ---- | ---- | - |
-| A   |      | 2.1  | 2.14 | Vectors in the plane. Vectors in 3-space. |
+| A   |      | 2.1  | 2.14 | Polar coordinates. Vectors in the plane. Vectors in 3-space. |
 | B   |      | 2.3  | 2.14 | Dot product. Cross product. |
 | C   | 2.7  | 2.8  | 2.21 | Planes in 3-space. |
 | D   | 2.7  | 2.10 | 2.21 | Quadratic surfaces. **Lab 1.** |
