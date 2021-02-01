@@ -173,6 +173,7 @@ By each Sunday below
 `WX`. (5.9)  
 `YZ`. (5.16)  
 
+<!--
 # Webwork Exam Tips
 
 1. Go to "Homework Sets" and **click "Take Midterm 1 test" to take or retake Midterm 1**.
@@ -189,3 +190,4 @@ By each Sunday below
 6. A yellow banner means this attempt is already submitted: no changes are possible. You may review your recorded answers and the correct answers for this attempt. To retake the exam, go back to the "Homework sets" page.
 
 ![Yellow banner means this attempt is already submitted, no changes are possible.](../webwork3.png)
+-->
