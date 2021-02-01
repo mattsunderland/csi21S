@@ -75,9 +75,9 @@ Coursework consists of reading annotations, problemsets, labs, and checkin parti
 |   |      | 3.24 |  | Exam 2 |
 | N | 4.4  | 4.5  |  | Estimate p |
 |   |      |      |  | Estimate mu |
-|   | 4.4  | 4.7  |  | Test p |
-|   |      |      |  | Lab 5 |
-| P | 4.11 | 4.12 |  | Test mu |
+|   | 4.4  | 4.7  |  | Lab 5 |
+| P | 4.11 | 4.12 |  | Test p |
+|   |      |      |  | Test mu |
 | Q | 4.11 | 4.14 |  | Lab 6 |
 |   | 4.18 | 4.19 |  | Test p1, p2 |
 |   | 4.18 | 4.21 |  | Lab 7 |
