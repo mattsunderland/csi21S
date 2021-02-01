@@ -14,7 +14,7 @@ Office hours: to be determined
 1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-A8N72  
    You will see the following
    1. *Introductory Statistics, OpenStax*
-   1. *Standard Normal (Z) Distribution Chart*
+   1. *Standard Normal Chart*
 1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/Math113_21204_Sunderland_S21/) and change your password
 
 # Weekly Requirements
@@ -35,7 +35,9 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 # Helpful Links and Resources
 
 # Schedule
-|   | Reading due | Lecture date | HW (WeBWorK and/or Lab) due | Topic |
+\*HW means any WeBWorK problem sets and/or Labs corresponding to the topic
+
+|   | Reading due | Lecture date | HW* due | Topic |
 | - | ---- | ---- | ---- | - |
 | A |      | 2.1  | 2.14 | Population and Sample. Data type. |
 | B |      | 2.3  | 2.14 | Frequency table. **Lab 1.** |
