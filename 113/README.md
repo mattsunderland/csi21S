@@ -47,6 +47,41 @@ Coursework consists of reading annotations, problemsets, labs, and checkin parti
 
 # Helpful Links and Resources
 
+
+# Schedule
+|   | Reading due | Lecture date | Problemset due | Topic | Suggested activities, exercises, problems |
+| - | ---- | ---- | - | - | - |
+| A |      | 2.1  |  |
+|   |      | 2.3  |  |
+| B | 2.7  | 2.8  |  |
+| C | 2.7  | 2.10 |  |
+| D | 2.14 | 2.17 |  |
+| E | 2.21 | 2.22 |  |
+|   |      | 2.24 |  |
+|   |      | 3.1  |  |
+|   | 2.28 | 3.3  |  |
+| I | 3.7  | 3.8  |  |
+| J | 3.7  | 3.10 |  |
+| K | 3.14 | 3.15 |  |
+| L | 3.14 | 3.17 |  |
+| M | 3.21 | 3.22 |  |
+|   |      | 3.24 |  |
+| N | 4.4  | 4.5  |  |
+|   | 4.4  | 4.7  |  |
+| P | 4.11 | 4.12 |  |
+| Q | 4.11 | 4.14 |  |
+|   | 4.18 | 4.19 |  |
+|   | 4.18 | 4.21 |  |
+|   | 4.25 | 4.26 |  |
+|   | 4.25 | 4.28 |  |
+|   |      | 5.3  |  |
+|   |      | 5.5  |  |
+|   |      | 5.10 |  |
+|   |      | 5.12 |  |
+|   |      | 5.17 |  |
+|   |      | TBD  | Final |
+|   |      |      |  |
+
 # Reading and Lecture Schedule
 By each Sunday below
 
