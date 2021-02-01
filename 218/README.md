@@ -76,3 +76,4 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 |   |      | 5.10 | Exam 3 |
 |   |      | 5.12 | Review |
 |   |      | 5.17 | Review |
+|   |      | TBD  | Final |
