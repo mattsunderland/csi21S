@@ -4,7 +4,7 @@ Math 113/21204 MW 2:30-4:25
 Dr Matthew Han-Jing Sunderland  
 ![other](../other2.png)
 
-Office hours: to be determined
+Office hours MW 5:00-6:30
 
 # Day 1 Checklist
 1. Confirm your preferred email on CunyFirst > Self Service > Personal Info
