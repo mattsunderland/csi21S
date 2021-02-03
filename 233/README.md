@@ -31,10 +31,16 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 1. Drop deadline = 2.18
 1. Withdraw deadline = 5.17
 
-# Schedule
-\*HW means any WeBWorK problem sets and/or Labs corresponding to the topic
+# Labs
+| | Lecture date | Lab due | Topic |
+| - | ---- | ---- | - |
+| 1 | 2.10 | 2.21 | 
+| 2 | 2.22 | 3.7  |
+| 3 | 3.3  | 3.14 |
+| 4 | 4.7  | 4.18 |
 
-| | Reading due | Lecture date | HW\* due | Topic |
+# Schedule
+| | Reading due | Lecture date | WeBWorK due | Topic |
 | --- | ---- | ---- | ---- | - |
 | A   |      | 2.1  | 2.14 | [Polar coordinates. Vectors in the plane.](./notes/calc3a.pdf) Vectors in 3-space. |
 | B   |      | 2.3  | 2.14 | Dot product. Cross product. |
@@ -47,7 +53,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | I   | 2.28 | 3.3  | 3.14 | Differentiability and tangent planes. **Lab 3.** |
 | J   | 3.7  | 3.8  | 3.21 | Gradient and directional derivatives. **Review.** |
 |     |      | 3.10 |      | **Exam 1** |
-| K   | 3.14  | 3.15 | 4.4  | Chain rule in several variables. |
+| K   | 3.14 | 3.15 | 4.4  | Chain rule in several variables. |
 | L   | 3.14 | 3.17 | 4.4  | Optimization in several variables. |
 | M   | 3.21 | 3.22 | 4.11 | Langrange multipliers. |
 | N   | 3.21 | 3.24 | 4.11 | Integration in several variables. |
