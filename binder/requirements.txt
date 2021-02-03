@@ -1,0 +1,7 @@
+notebook-as-pdf==0.4.0
+matplotlib
+numpy
+pandas
+pip
+seaborn
+sympy
