@@ -36,10 +36,21 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 
 <!-- # Helpful Links and Resources -->
 
-# Schedule
-\*HW means any WeBWorK problem sets and/or Labs corresponding to the topic
+# Labs
+| | Lab demo | Lab due | Topic |
+| - | ---- | ---- | - |
+| 1 | 2.3  | 2.14 |
+| 2 | 2.10 | 2.21 |
+| 3 | 3.3  | 3.14 |
+| 4 | 3.17 | 4.4  |
+| 5 | 4.7  | 4.18 |
+| 6 | 4.14 | 4.25 |
+| 7 | 4.21 | 5.2  |
+| 8 | 4.28 | 5.9  |
+| 9 | 5.5  | 5.16 |
 
-| | Reading due | Lecture date | HW* due | Topic |
+# Schedule
+| | Reading due | Lecture date | WeBWorK due | Topic |
 | --- | ---- | ---- | ---- | - |
 | A,B |      | 2.1  | 2.14 | Population and Sample. Data type. |
 | C   |      | 2.3  | 2.14 | Frequency table. **Lab 1.** |
@@ -49,7 +60,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | I   | 2.21 | 2.22 | 3.7  | Regression. **Review.** |
 |     |      | 2.24 |      | **Exam 1** |
 | J,K | 2.28 | 3.1  | 3.14 | Probability. Add rule and multiply rule |
-| L   | 2.28 | 3.3  | 3.14 | Complement and conditional probability | Lab 3 |
+| L   | 2.28 | 3.3  | 3.14 | Complement and conditional probability | **Lab 3** |
 | M,N | 3.7  | 3.8  | 3.21 | Counting principle. Probability distributions |
 | O,P | 3.7  | 3.10 | 3.21 | Binomials. Standard normal. |
 | Q,R | 3.14 | 3.15 | 4.4  | Normals. Sampling distributions. |
