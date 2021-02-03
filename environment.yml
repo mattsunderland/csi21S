@@ -1,7 +1,9 @@
 dependencies:
   - matplotlib
+  - nbconvert
   - numpy
   - pandas
+  - pandoc
   - pip
   - seaborn
   - sympy
