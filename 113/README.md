@@ -16,8 +16,6 @@ Office hours MW 5:00-6:30
    1. *Introductory Statistics, OpenStax*
    1. *Standard Normal Chart*
 1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/Math113_21204_Sunderland_S21/) and change your password  
-   <s>NOTE: WEBWORK ROSTER NOT UPLOADED YET. WILL BE READY WEDNESDAY.</s>   
-   _Roster is uploaded: you can log in now._
 
 # Weekly Requirements
 1. **Synchronous Lecture** Monday & Wednesday on Blackboard Collaborate &emsp; —*starting 2.1*
@@ -37,17 +35,17 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 <!-- # Helpful Links and Resources -->
 
 # Labs
-| | Lab demo | Lab due | Topic |
+| Link | Lab demo | Lab due | Topic |
 | - | ---- | ---- | - |
-| 1 | 2.3  | 2.14 |
-| 2 | 2.10 | 2.21 |
-| 3 | 3.3  | 3.14 |
-| 4 | 3.17 | 4.4  |
-| 5 | 4.7  | 4.18 |
-| 6 | 4.14 | 4.25 |
-| 7 | 4.21 | 5.2  |
-| 8 | 4.28 | 5.9  |
-| 9 | 5.5  | 5.16 |
+| [Lab 1](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=113%2Flabs%2Flab1.ipynb) | 2.3  | 2.14 | How to submit labs |
+| Lab 2 | 2.10 | 2.21 |
+| Lab 3 | 3.3  | 3.14 |
+| Lab 4 | 3.17 | 4.4  |
+| Lab 5 | 4.7  | 4.18 |
+| Lab 6 | 4.14 | 4.25 |
+| Lab 7 | 4.21 | 5.2  |
+| Lab 8 | 4.28 | 5.9  |
+| Lab 9 | 5.5  | 5.16 |
 
 # Schedule
 | | Reading due | Lecture date | WeBWorK due | Topic |
