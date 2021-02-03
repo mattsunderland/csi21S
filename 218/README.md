@@ -14,8 +14,8 @@ Office hours MW 5:00-6:30
 1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-FFFNG   
    You will see the one text
    1. *Mathematics for Elementary Teachers with Activities (old v1), 5e, Beckmann, Pearson*  
-      $73.33 USD | Perpetual online access (ISBN 9780134496443-old) Reflowable text  
-      $48.87 USD | 180-day online access (ISBN 9780134506609-old) Reflowable text  
+      73.33 USD | Perpetual online access (ISBN 9780134496443-old) Reflowable text  
+      48.87 USD | 180-day online access (ISBN 9780134506609-old) Reflowable text  
 
 # Weekly Requirements
 1. **Synchronous Lecture** Monday & Wednesday on Blackboard Collaborate &emsp; —*starting 2.1*
@@ -36,7 +36,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 |   | Reading due | Lecture date | Topic | Suggested activities, exercises, problems |
 | - | ---- | ---- | - | - |
 | A |      | 2.1  | 10.1 Line, Angles, Parallel Lines (452) | ca201/1-3 ca202/1,2 460/1,3,4 463/2,4,5 |
-| B |      | 2.3  | 10.1 Angle sum of a triangle | ca203/1-3 ca204/1 ca205/3 ca206/4,6,7 ca207/1-4 461/5-7 463/9,10 |
+| B |      | 2.3  | 10.1 Angle sum of a triangle | ca203/1-3 ca204/1 ca205/3 ca206/4,6,7 ca207/1-4 461/5-7 463/9 (hint: add line going up from b),10 |
 | C | 2.7  | 2.8  | 10.2 Angles in the world (466), optional topic: seasons | ca209:earth-circumference 468/1,2 469/1ab,4a-f,5 |
 | D | \"   | 2.10 | 10.3 Circles & Spheres (472) | 475/1,2,4 476/1-3 |
 | E | \"   | \"   | 10.3 GPS demo with strings and/or with diagrams | ca214 |
