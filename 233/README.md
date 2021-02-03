@@ -47,7 +47,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | I   | 2.28 | 3.3  | 3.14 | Differentiability and tangent planes. **Lab 3.** |
 | J   | 3.7  | 3.8  | 3.21 | Gradient and directional derivatives. **Review.** |
 |     |      | 3.10 |      | **Exam 1** |
-| K   | 3.9  | 3.15 | 4.4  | Chain rule in several variables. |
+| K   | 3.14  | 3.15 | 4.4  | Chain rule in several variables. |
 | L   | 3.14 | 3.17 | 4.4  | Optimization in several variables. |
 | M   | 3.21 | 3.22 | 4.11 | Langrange multipliers. |
 | N   | 3.21 | 3.24 | 4.11 | Integration in several variables. |
@@ -58,8 +58,8 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | S,T | 4.18 | 4.19 | 5.2  | Vector fields. Line integrals |
 | U   | 4.18 | 4.21 | 5.2  | Conservative vector fields. **Review.** |
 |     |      | 4.26 |      | **Exam 2** |
-| V   | 4.25 | 4.28 | 5.9  | Parametrized surfaces. Surface integrals and surface area. |
-| W   | 5.2  | 5.3  | 5.16 | Surface integrals of vector fields |
+| V   | 4.25 | 4.28 | 5.9  | Parametrized surface, surface integral, surface area |
+| W   | 5.2  | 5.3  | 5.16 | Surface integral of vector field. Divergence and curl. |
 | X   | 5.2  | 5.5  | 5.16 | Green's Theorem |
 | Y   | 5.9  | 5.10 | 5.23 | Stokes' Theorem |
 | Z   | 5.9  | 5.12 | 5.23 | Divergence theorem |
