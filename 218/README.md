@@ -4,7 +4,7 @@ SLS 218/21451 MW 12:20-2:15
 Dr Matthew Han-Jing Sunderland  
 ![other](../other2.png)
 
-Office hours MW 5:00-6:30
+Office hours MW 5:00-6:30 on Blackboard Collaborate
 
 # Day 1 Checklist
 1. Confirm your preferred email on CunyFirst > Self Service > Personal Info
