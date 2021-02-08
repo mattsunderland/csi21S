@@ -50,10 +50,10 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 # Schedule
 | | Reading due | Lecture date | WeBWorK due | Topic |
 | --- | ---- | ---- | ---- | - |
-| A,B |      | 2.1  | 2.14 | Population and Sample. Data type. |
-| C   |      | 2.3  | 2.14 | Frequency table. **Lab 1.** |
-| D,E | 2.7  | 2.8  | 2.21 | Histogram. Mean. Grouped mean.|
-| F   | 2.7  | 2.10 | 2.21 | Standard deviation. **Lab 2.** |
+| A,B |      | 2.1  | 2.14 | [Population and Sample. Data type.](../notes/notes2ab.pdf) |
+| C   |      | 2.3  | 2.14 | [Frequency table.](../notes/notes2bc.pdf) **Lab 1.** |
+| D,E | 2.7  | 2.8  | 2.21 | [Histogram. Mean.](../notes/notes2de.pdf) |
+| E,F | 2.7  | 2.10 | 2.21 | Grouped mean. Standard deviation. **Lab 2.** |
 | G,H | 2.14 | 2.17 | 2.28 | Boxplot. Correlation. |
 | I   | 2.21 | 2.22 | 3.7  | Regression. **Review.** |
 |     |      | 2.24 |      | **Exam 1** |
