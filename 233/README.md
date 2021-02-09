@@ -44,9 +44,9 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | --- | ---- | ---- | ---- | - |
 | A   |      | 2.1  | 2.14 | [Polar coordinates. Vectors in the plane.](../notes/notes3a.pdf) |
 | B   |      | 2.3  | 2.14 | [Vectors in 3-space. Dot product.](../notes/notes3b.pdf) |
-| C   | 2.7  | 2.8  | 2.21 | Cross product. Planes in 3-space. |
-| D   | 2.7  | 2.10 | 2.21 | Quadratic surfaces. **Lab 1.** |
-| E   | 2.14 | 2.17 | 2.28 | Vector-valued functions. Calculus of vector-valued functions. |
+| C   | 2.7  | 2.8  | 2.21 | [Determinant.](../notes/notes3bc.pdf) Cross product. |
+| D   | 2.7  | 2.10 | 2.21 | Lines & Planes in 3-space, **Lab 1.** |
+| E   | 2.14 | 2.17 | 2.28 | Quadratic surfaces. Vector-valued functions. Calculus of vector-valued functions. |
 | F   | 2.21 | 2.22 | 3.7  | Arclength and speed. **Lab 2.** |
 | G   | 2.21 | 2.24 | 3.7  | Functions of several variable. Limits and continuity in several variables. |
 | H   | 2.28 | 3.1  | 3.14 | Partial derivatives |
