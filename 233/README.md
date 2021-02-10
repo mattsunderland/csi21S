@@ -34,10 +34,11 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 # Labs
 | | Lecture date | Lab due | Topic |
 | - | ---- | ---- | - |
-| 1 | 2.10 | 2.21 | 
-| 2 | 2.22 | 3.7  |
-| 3 | 3.3  | 3.14 |
-| 4 | 4.7  | 4.18 |
+| [Lab 1](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=233%2Flabs%2Flab1.ipynb) | 2.10 | 2.21 | 
+| [Lab 2](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=233%2Flabs%2Flab2.ipynb) | 2.22 | 3.7  |
+| Lab 3 | 3.3  | 3.14 |
+| Lab 4 | 3.17 | 4.4  |
+| Lab 5 | 3.24  | 4.11 |
 
 # Schedule
 | | Reading due | Lecture date | WeBWorK due | Topic |
@@ -54,11 +55,11 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | J   | 3.7  | 3.8  | 3.21 | Gradient and directional derivatives. **Review.** |
 |     |      | 3.10 |      | **Exam 1** |
 | K   | 3.14 | 3.15 | 4.4  | Chain rule in several variables. |
-| L   | 3.14 | 3.17 | 4.4  | Optimization in several variables. |
+| L   | 3.14 | 3.17 | 4.4  | Optimization in several variables. **Lab 4.** |
 | M   | 3.21 | 3.22 | 4.11 | Langrange multipliers. |
-| N   | 3.21 | 3.24 | 4.11 | Integration in several variables. |
+| N   | 3.21 | 3.24 | 4.11 | Integration in several variables. **Lab 5.** |
 | O   | 4.4  | 4.5  | 4.18 | Double integrals over general regions |
-| P   | 4.4  | 4.7  | 4.18 | Triple integrals. **Lab 4.** |
+| P   | 4.4  | 4.7  | 4.18 | Triple integrals. |
 | Q   | 4.11 | 4.12 | 4.25 | Integration in polar and cylindrical coordinates |
 | R   | 4.11 | 4.14 | 4.25 | Integration in spherical coordinates
 | S,T | 4.18 | 4.19 | 5.2  | Vector fields. Line integrals |
