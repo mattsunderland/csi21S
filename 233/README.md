@@ -31,6 +31,11 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 1. Drop deadline = 2.18
 1. Withdraw deadline = 5.17
 
+# Helpful Links and Resources
+1. Lecture notes are posted below under [Schedule](#schedule) below after each lecture
+1. Blackboard Collaborate automatically processes and posts a recording of each lecture about 30 minutes after the last person has left, available at BlackBoard > Collaborate > ☰ > Recordings
+1. CSI Office of Academic Support offers free online tutoring seven days a week. See schedule at https://www.csi.cuny.edu/students/academic-assistance/tutoring
+
 # Labs
 | | Lecture date | Lab due | Topic |
 | - | ---- | ---- | - |
