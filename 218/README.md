@@ -41,8 +41,8 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | A |      | 2.1  | [10.1 Line, Angles, Parallel Lines (452)](../notes/notes1a.pdf) | ca201/1-3 ca202/1,2 460/1,3,4 463/2,4,5 |
 | B |      | 2.3  | [10.1 Angle sum of a triangle](../notes/notes1b.pdf) | ca203/1-3 ca204/1 ca205/3 ca206/4,6,7 ca207/1-4 461/5-7 463/9 (hint: add line going up from b),10 |
 | C | 2.7  | 2.8  | [10.2 Angles in the world (466), optional topic: seasons](../notes/notes1c.pdf) | ca209:earth-circumference 468/1,2 469/1ab,4a-f,5 |
-| D | \"   | 2.10 | 10.3 Circles & Spheres (472) | 475/1,2,4 476/1-3 |
-| E | \"   | \"   | 10.3 GPS demo with strings and/or with diagrams | ca214 |
+| D | \"   | 2.10 | [10.3 Circles & Spheres (472)](../notes/notes1cd.pdf) | 475/1,2,4 476/1-3 |
+| ~~E~~ | ~~\"~~   | ~~\"~~   | ~~10.3 GPS demo with strings and/or with diagrams~~ | ~~ca214~~ |
 | F | 2.14 | 2.17 | 10.4 Triangle, Quadrilateral, Polygon, Definition, Relationship, Venn diagrams (477) | ca217 ca218-219 ca220-221 ca222 484/1-4 487/1-3,5abc,8ab,9,16ab,19a,20ab |
 | G | 2.21 | 2.22 | 10.6 Construction with compass/straight edge | ca223/1-3 ca224/4,6,7 484/5-7 487/5abc,8ab,9,16ab,19a,20ab |
 |   |      | 2.24 | **Review** |

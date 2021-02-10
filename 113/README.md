@@ -41,7 +41,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | Link | Lab demo | Lab due | Topic |
 | - | ---- | ---- | - |
 | [Lab 1](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=113%2Flabs%2Flab1.ipynb) | 2.3  | 2.14 | How to submit labs |
-| [Lab 2](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=113%2Flabs%2Flab2.ipynb) | 2.10 | 2.21 |
+| [Lab 2](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=113%2Flabs%2Flab2.ipynb) | 2.10 | 2.21 | Histograms |
 | Lab 3 | 3.3  | 3.14 |
 | Lab 4 | 3.17 | 4.4  |
 | Lab 5 | 4.7  | 4.18 |
@@ -50,13 +50,15 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | Lab 8 | 4.28 | 5.9  |
 | Lab 9 | 5.5  | 5.16 |
 
+<!-- For webwork, see also bmcc150-set7,8 -->
+
 # Schedule
 | | Reading due | Lecture date | WeBWorK due | Topic |
 | --- | ---- | ---- | ---- | - |
 | A,B |      | 2.1  | 2.21 | [Population and Sample. Data type.](../notes/notes2ab.pdf) |
 | C   |      | 2.3  | 2.21 | [Frequency table.](../notes/notes2bc.pdf) **Lab 1.** |
 | D,E | 2.7  | 2.8  | 2.21 | [Histogram. Mean.](../notes/notes2de.pdf) |
-| E,F | 2.7  | 2.10 | 2.21 | Grouped mean. Standard deviation. **Lab 2.** |
+| E,F | 2.7  | 2.10 | 2.21 | [Grouped mean. Skew. Standard deviation.](../notes/notes2ef.pdf) **Lab 2.** |
 | G,H | 2.14 | 2.17 | 2.28 | Boxplot. Correlation. |
 | I   | 2.21 | 2.22 | 3.7  | Regression. **Review.** |
 |     |      | 2.24 |      | **Exam 1** |
