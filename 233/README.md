@@ -43,8 +43,8 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 # Schedule
 | | Reading due | Lecture date | WeBWorK due | Topic |
 | --- | ---- | ---- | ---- | - |
-| A   |      | 2.1  | 2.14 | [Polar coordinates. Vectors in the plane.](../notes/notes3a.pdf) |
-| B   |      | 2.3  | 2.14 | [Vectors in 3-space. Dot product.](../notes/notes3b.pdf) |
+| A   |      | 2.1  | 2.21 | [Polar coordinates. Vectors in the plane.](../notes/notes3a.pdf) |
+| B   |      | 2.3  | 2.21 | [Vectors in 3-space. Dot product.](../notes/notes3b.pdf) |
 | C   | 2.7  | 2.8  | 2.21 | [Determinant.](../notes/notes3bc.pdf) Cross product. |
 | D   | 2.7  | 2.10 | 2.21 | Lines & Planes in 3-space, **Lab 1.** |
 | E   | 2.14 | 2.17 | 2.28 | Quadratic surfaces. Vector-valued functions. Calculus of vector-valued functions. |
