@@ -37,23 +37,23 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 1. CSI Office of Academic Support offers free online tutoring seven days a week. See schedule at https://www.csi.cuny.edu/students/academic-assistance/tutoring
 
 # Labs
-| | Lecture date | Lab due | Topic |
+| | Lab demo | Lab due | Topic |
 | - | ---- | ---- | - |
-| [Lab 1](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=233%2Flabs%2Flab1.ipynb) | 2.10 | 2.21 | 
-| [Lab 2](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=233%2Flabs%2Flab2.ipynb) | 2.22 | 3.7  |
+| [Lab 1](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=233%2Flabs%2Flab1.ipynb) | 2.17 | 2.28 | How to submit labs |
+| [Lab 2](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=233%2Flabs%2Flab2.ipynb) | 2.22 | 3.7  | Surfaces |
 | Lab 3 | 3.3  | 3.14 |
 | Lab 4 | 3.17 | 4.4  |
-| Lab 5 | 3.24  | 4.11 |
+| Lab 5 | 3.24 | 4.11 |
 
 # Schedule
 | | Reading due | Lecture date | WeBWorK due | Topic |
 | --- | ---- | ---- | ---- | - |
 | A   |      | 2.1  | 2.21 | [Polar coordinates. Vectors in the plane.](../notes/notes3a.pdf) |
 | B   |      | 2.3  | 2.21 | [Vectors in 3-space. Dot product.](../notes/notes3b.pdf) |
-| C   | 2.7  | 2.8  | 2.21 | [Determinant.](../notes/notes3bc.pdf) Cross product. |
-| D   | 2.7  | 2.10 | 2.21 | Lines & Planes in 3-space, **Lab 1.** |
-| E   | 2.14 | 2.17 | 2.28 | Quadratic surfaces. Vector-valued functions. Calculus of vector-valued functions. |
-| F   | 2.21 | 2.22 | 3.7  | Arclength and speed. **Lab 2.** |
+| C   | 2.7  | 2.8  | 2.21 | [Determinant.](../notes/notes3bc.pdf) |
+| D   | 2.7  | 2.10 | 2.21 | [Cross product.](../notes/notes3cd.pdf) |
+| E   | 2.14 | 2.17 | 2.28 | Lines & Planes in 3-space. Quadratic surfaces. **Lab 1.**   |
+| F   | 2.21 | 2.22 | 3.7  | Vector-valued functions. Calculus of vector-valued functions. Arclength and speed. **Lab 2.** |
 | G   | 2.21 | 2.24 | 3.7  | Functions of several variable. Limits and continuity in several variables. |
 | H   | 2.28 | 3.1  | 3.14 | Partial derivatives |
 | I   | 2.28 | 3.3  | 3.14 | Differentiability and tangent planes. **Lab 3.** |
