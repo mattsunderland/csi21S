@@ -1,6 +1,6 @@
 # Labs
 
-[⏎ Back to course](./README.md)
+[⏎ Back to course](../README.md)
 
 Click on the lab link below to launch the lab.
 
