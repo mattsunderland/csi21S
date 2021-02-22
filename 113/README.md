@@ -61,9 +61,10 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | C   |      | 2.3  | 2.21 | [Frequency table.](../notes/notes2bc.pdf) **Lab 1.** |
 | D,E | 2.7  | 2.8  | 2.21 | [Histogram. Mean.](../notes/notes2de.pdf) |
 | E,F | 2.7  | 2.10 | 2.21 | [Grouped mean. Skew. Standard deviation.](../notes/notes2ef.pdf) **Lab 2.** |
-| G,H | 2.14 | 2.17 | 2.28 | Boxplot. Correlation. |
-| I   | 2.21 | 2.22 | 3.7  | Regression. **Review.** |
-|     |      | 2.24 |      | **Exam 1** |
+| G,H | 2.14 | 2.17 | 2.28 | [Boxplot.](../notes/notes2g.pdf) |
+|     |      | ~~2.22~~ |  | 
+| H,I | 2.21 | 2.24 | 3.7  | Correlation. Regression. **Review.** |
+|     |      |      |      | **Exam 1** Opens 2.24 Due 3.7. |
 | J,K | 2.28 | 3.1  | 3.14 | Probability. Add rule and multiply rule |
 | L   | 2.28 | 3.3  | 3.14 | Complement and conditional probability **Lab 3** |
 | M,N | 3.7  | 3.8  | 3.21 | Counting principle. Probability distributions |

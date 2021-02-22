@@ -42,7 +42,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | | Lab demo | Lab due | Topic |
 | - | ---- | ---- | - |
 | [Lab 1](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=233%2Flabs%2Flab1.ipynb) | 2.17 | 2.28 | How to submit labs |
-| [Lab 2](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=233%2Flabs%2Flab2.ipynb) | 2.22 | 3.7  | Surfaces |
+| [Lab 2](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=233%2Flabs%2Flab2.ipynb) | 3.1  | 3.14 | Surfaces |
 | Lab 3 | 3.3  | 3.14 |
 | Lab 4 | 3.17 | 4.4  |
 | Lab 5 | 3.24 | 4.11 |
@@ -50,17 +50,20 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 # Schedule
 | | Reading due | Lecture date | WeBWorK due | Topic |
 | --- | ---- | ---- | ---- | - |
-| A   |      | 2.1  | 2.21 | [Polar coordinates. Vectors in the plane.](../notes/notes3a.pdf) |
-| B   |      | 2.3  | 2.21 | [Vectors in 3-space. Dot product.](../notes/notes3b.pdf) |
-| C   | 2.7  | 2.8  | 2.21 | [Determinant.](../notes/notes3bc.pdf) |
-| D   | 2.7  | 2.10 | 2.21 | [Cross product.](../notes/notes3cd.pdf) |
-| E   | 2.14 | 2.17 | 2.28 | Lines & Planes in 3-space. Quadratic surfaces. **Lab 1.**   |
-| F   | 2.21 | 2.22 | 3.7  | Vector-valued functions. Calculus of vector-valued functions. Arclength and speed. **Lab 2.** |
-| G   | 2.21 | 2.24 | 3.7  | Functions of several variable. Limits and continuity in several variables. |
-| H   | 2.28 | 3.1  | 3.14 | Partial derivatives |
-| I   | 2.28 | 3.3  | 3.14 | Differentiability and tangent planes. **Lab 3.** |
-| J   | 3.7  | 3.8  | 3.21 | Gradient and directional derivatives. **Review.** |
-|     |      | 3.10 |      | **Exam 1** |
+| A   |      | 2.1  | 2.28 | [Polar coordinates. Vectors in the plane.](../notes/notes3a.pdf) |
+| B   |      | 2.3  | 2.28 | [Vectors in 3-space. Dot product.](../notes/notes3b.pdf) |
+| C   | 2.7  | 2.8  | 3.7  | [Determinant.](../notes/notes3bc.pdf) |
+| D   | 2.7  | 2.10 | 3.7  | [Cross product.](../notes/notes3cd.pdf) |
+|     | 2.14 | 2.17 | 2.28 | **Lab 1.**   |
+|     |      | ~~2.22~~ |  |
+|D,E,E'|2.14 | 2.24 | 3.7  | Cross product. Lines & Planes in 3-space. Quadratic surfaces. |
+| F   | 2.14 |      | 3.14 | Vector-valued functions. Calculus of vector-valued functions. |
+| F'  | 2.28 | 3.1  | 3.14 | Arclength and speed. **Lab 2.** |
+| G   | 2.28 | 3.3  | 3.14 | Functions of several variable. Limits and continuity in several variables. |
+| H   | 2.28 |      |      | Partial derivatives |
+| I   | 3.7  | 3.8  | 3.21 | Differentiability and tangent planes. **Lab 3.** |
+| J   | 3.7  | 3.10 | 3.21 | Gradient and directional derivatives. **Review.** |
+|     |      |      |      | **Exam 1** Opens 3.10 Due 3.21 |
 | K   | 3.14 | 3.15 | 4.4  | Chain rule in several variables. |
 | L   | 3.14 | 3.17 | 4.4  | Optimization in several variables. **Lab 4.** |
 | M   | 3.21 | 3.22 | 4.11 | Langrange multipliers. |

@@ -45,10 +45,11 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | C | 2.7  | 2.8  | [10.2 Angles in the world (466), optional topic: seasons](../notes/notes1c.pdf) | ca209:earth-circumference 468/1,2 469/1ab,4a-f,5 |
 | D | \"   | 2.10 | [10.3 Circles & Spheres (472)](../notes/notes1cd.pdf) | 475/1,2,4 476/1-3 |
 | ~~E~~ | ~~\"~~   | ~~\"~~   | ~~10.3 GPS demo with strings and/or with diagrams~~ | ~~ca214~~ |
-| F | 2.14 | 2.17 | 10.4 Triangle, Quadrilateral, Polygon, Definition, Relationship, Venn diagrams (477) | ca217 ca218-219 ca220-221 ca222 484/1-4 487/1-3,5abc,8ab,9,16ab,19a,20ab |
-| G | 2.21 | 2.22 | 10.6 Construction with compass/straight edge | ca223/1-3 ca224/4,6,7 484/5-7 487/5abc,8ab,9,16ab,19a,20ab |
-|   |      | 2.24 | **Review** |
-|   |      | 3.1  | **Exam 1** |
+| F | 2.14 | 2.17 | [10.4 Triangle, Quadrilateral, Polygon, Definition, Relationship, Venn diagrams (477)]((../notes/notes1f.pdf) | ca217 ca218-219 ca220-221 ca222 484/1-4 487/1-3 |
+|   |      | ~~2.22~~ | 
+| G | 2.21 | 2.24 | 10.4 Construction with compass/straight edge | ca223/1-3 ca224/4,6,7 484/5-7 487/5abc,8ab,9,16ab,19a,20ab |
+|   |      | 3.1  | **Review** |
+|   |      |      | **Exam 1** Opens 3.1 Due 3.14. |
 | H | 2.28 | 3.3  | 11.1 Concepts of Measurement (493) | ca230/1,2,4 ca231/1-3 503/1-4,7-9 504/1-7 |
 | I | \"   | \"   | 11.2 Length, Area, Volume & Dimension (505) | ca232/1,2 508/1abc,2,3 509/1,3,4,7 |
 | J | \"   | \"   | 11.3 Error & Precision in Measurement (510) | ca233/1ab,2 513/1,2 513/1-3 |
