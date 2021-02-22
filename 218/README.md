@@ -2,7 +2,9 @@
 City University of New York - College of Staten Island - 2021 Spring  
 SLS 218/21451 MW 12:20-2:15  
 Dr Matthew Han-Jing Sunderland  
-![other](../other2.png)
+
+![other](../other2.png)  
+_please write "218" in your subject line_
 
 Office hours MW 5:00-6:30 on Blackboard Collaborate
 
@@ -19,7 +21,7 @@ Office hours MW 5:00-6:30 on Blackboard Collaborate
 
 # Weekly Requirements
 1. **Synchronous Lecture** Monday & Wednesday on Blackboard Collaborate &emsp; —*starting 2.1*
-1. **Reading annotations** due Sunday on Perusall &emsp; —*starting 2.7*
+1. **Reading annotations** due Sunday (11:59 PM) on Perusall &emsp; —*starting 2.7*
 
 # Grade
 Your grade is the average of **Exam 1**, **Exam 2**, **Exam 3**, **Final**, and **Coursework**.  
