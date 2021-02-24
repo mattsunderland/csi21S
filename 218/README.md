@@ -47,7 +47,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | ~~E~~ | ~~\"~~   | ~~\"~~   | ~~10.3 GPS demo with strings and/or with diagrams~~ | ~~ca214~~ |
 | F | 2.14 | 2.17 | [10.4 Triangle, Quadrilateral, Polygon, Definition, Relationship, Venn diagrams (477)](../notes/notes1f.pdf) | ca217 ca218-219 ca220-221 ca222 484/1-4 487/1-3 |
 |   |      | ~~2.22~~ | 
-| G | 2.21 | 2.24 | 10.4 Construction with compass/straight edge | ca223/1-3 ca224/4,6,7 484/5-7 487/5abc,8ab,9,16ab,19a,20ab |
+| G | 2.21 | 2.24 | [10.4 Construction with compass/straight edge](../noters/notes1g.pdf) | ca223/1-3 ca224/4,6,7 484/5-7 487/5abc,8ab,9,~~16ab,19a,20ab~~ |
 |   |      | 3.1  | **Review** |
 |   |      |      | **Exam 1** Opens 3.1 Due 3.14. |
 | H | 2.28 | 3.3  | 11.1 Concepts of Measurement (493) | ca230/1,2,4 ca231/1-3 503/1-4,7-9 504/1-7 |
