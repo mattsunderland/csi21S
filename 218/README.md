@@ -45,7 +45,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | C | 2.7  | 2.8  | [10.2 Angles in the world (466), optional topic: seasons](../notes/notes1c.pdf) | ca209:earth-circumference 468/1,2 469/1ab,4a-f,5 |
 | D | \"   | 2.10 | [10.3 Circles & Spheres (472)](../notes/notes1cd.pdf) | 475/1,2,4 476/1-3 |
 | ~~E~~ | ~~\"~~   | ~~\"~~   | ~~10.3 GPS demo with strings and/or with diagrams~~ | ~~ca214~~ |
-| F | 2.14 | 2.17 | [10.4 Triangle, Quadrilateral, Polygon, Definition, Relationship, Venn diagrams (477)]((../notes/notes1f.pdf) | ca217 ca218-219 ca220-221 ca222 484/1-4 487/1-3 |
+| F | 2.14 | 2.17 | [10.4 Triangle, Quadrilateral, Polygon, Definition, Relationship, Venn diagrams (477)](../notes/notes1f.pdf) | ca217 ca218-219 ca220-221 ca222 484/1-4 487/1-3 |
 |   |      | ~~2.22~~ | 
 | G | 2.21 | 2.24 | 10.4 Construction with compass/straight edge | ca223/1-3 ca224/4,6,7 484/5-7 487/5abc,8ab,9,16ab,19a,20ab |
 |   |      | 3.1  | **Review** |
