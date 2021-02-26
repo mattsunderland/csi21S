@@ -3,8 +3,8 @@ City University of New York - College of Staten Island - 2021 Spring
 SLS 218/21451 MW 12:20-2:15  
 Dr Matthew Han-Jing Sunderland  
 
-![other](../other2.png)  
-_please write "218" in your subject line_
+![other](../object3.png)  
+_When emailing, put "218" in the subject_
 
 Office hours MW 5:00-6:30 on Blackboard Collaborate
 
@@ -12,7 +12,7 @@ Office hours MW 5:00-6:30 on Blackboard Collaborate
 1. Confirm your preferred email on CunyFirst > Self Service > Personal Info
 1. Confirm you can log into Blackboard > This course > Blackboard Collaborate
 1. Create free [Gradescope.com](https://www.gradescope.com) account and add course 3YJ7PJ.  
-   (Later on this is where you will submit exams.)
+   (Later on this is where you will submit exams.) 
 1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-FFFNG   
    You will see the one text
    1. *Mathematics for Elementary Teachers with Activities (old v1), 5e, Beckmann, Pearson*  

@@ -3,8 +3,9 @@ City University of New York - College of Staten Island - 2021 Spring
 Math 113/21204 MW 2:30-4:25  
 Dr Matthew Han-Jing Sunderland  
 
-![other](../other2.png)  
-_please write "113" in your subject line_
+![other](../object3.png)
+
+<p style="margin-top:-5mm;"><i>When emailing, put "113" in the subject</i></p>
 
 Office hours MW 5:00-6:30 on Blackboard Collaborate
 
@@ -15,8 +16,10 @@ Office hours MW 5:00-6:30 on Blackboard Collaborate
    (This is where you will submit exams and labs.)
 1. Create free [Perusall.com](https://www.perusall.com) account and add course SUNDERLAND-A8N72  
    You will see the following
-   1. *Introductory Statistics, OpenStax*
-   1. *Standard Normal Chart*
+   1. *Stats, OpenStax*
+   1. *Stats, Illowsky*
+   1. *Algebra, OpenStax*
+   1. *Normal Table*
 1. Log into WeBWorK [math.csi.cuny.edu/webwork2/](https://www.math.csi.cuny.edu/webwork2/Math113_21204_Sunderland_S21/) and change your password  
 
 # Weekly Requirements
