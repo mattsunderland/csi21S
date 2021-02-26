@@ -56,11 +56,11 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | D   | 2.7  | 2.10 | 3.7  | [Cross product.](../notes/notes3cd.pdf) |
 |     | 2.14 | 2.17 | 2.28 | **Lab 1.**   |
 |     |      | ~~2.22~~ |  |
-|D,E,E'|2.14 | 2.24 | 3.7  | Cross product. Lines & Planes in 3-space. Quadratic surfaces. |
-| F   | 2.14 |      | 3.14 | Vector-valued functions. Calculus of vector-valued functions. |
+| D,E | 2.14 | 2.24 | 3.7  | [Cross product. Lines in space.](../notes/notes3de.pdf) |
+|E,E',F|2.14 |      | 3.14 | Lines in space. Planes. Quadrics. Vector-fns. Derivatives of vector-fns. |
 | F'  | 2.28 | 3.1  | 3.14 | Arclength and speed. **Lab 2.** |
-| G   | 2.28 | 3.3  | 3.14 | Functions of several variable. Limits and continuity in several variables. |
-| H   | 2.28 |      |      | Partial derivatives |
+| G   | 2.28 | 3.3  | 3.14 | Multivariate-fns. Higher limits and continuity. |
+| H   | 2.28 |      |      | Partials |
 | I   | 3.7  | 3.8  | 3.21 | Differentiability and tangent planes. **Lab 3.** |
 | J   | 3.7  | 3.10 | 3.21 | Gradient and directional derivatives. **Review.** |
 |     |      |      |      | **Exam 1** Opens 3.10 Due 3.21 |
