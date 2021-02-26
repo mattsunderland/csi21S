@@ -3,9 +3,8 @@ City University of New York - College of Staten Island - 2021 Spring
 Math 113/21204 MW 2:30-4:25  
 Dr Matthew Han-Jing Sunderland  
 
-![other](../object3.png)
-
-<p style="margin-top:-5mm;"><i>When emailing, put "113" in the subject</i></p>
+![other](../object3.png)  
+_When emailing, put "113" in the subject_
 
 Office hours MW 5:00-6:30 on Blackboard Collaborate
 
