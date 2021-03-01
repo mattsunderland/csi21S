@@ -66,7 +66,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | G   | 2.14 | 2.17 | 2.28 | [Boxplot.](../notes/notes2g.pdf) |
 |     |      | ~~2.22~~ |  | 
 | H,I | 2.21 | 2.24 | 3.7  | [Correlation. Regression.](../notes/notes2hi.pdf) |
-|     |      |      |      | **Exam 1** Opens 3.1 Due 3.14. |
+|     |      |      |      | **Exam 1** Opens 3.3 Due 3.14. |
 | J,K | 2.28 | 3.1  | 3.14 | **Review.** Probability. Add rule and multiply rule |
 | L   | 2.28 | 3.3  | 3.14 | Complement and conditional probability **Lab 3** |
 | M,N | 3.7  | 3.8  | 3.21 | Counting principle. Probability distributions |
