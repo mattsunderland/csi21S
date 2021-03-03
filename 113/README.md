@@ -1,10 +1,9 @@
 # Introduction to Statistics
 City University of New York - College of Staten Island - 2021 Spring  
 Math 113/21204 MW 2:30-4:25  
-Dr Matthew Han-Jing Sunderland  
 
-![other](../object3.png)  
-_When emailing, put "113" in the subject_
+![other](../object3.png) (Feb 1 - Mar 7)  
+![other](../object2.png) (Mar 8 - May 25)  
 
 Office hours MW 5:00-6:30 on Blackboard Collaborate
 
@@ -46,7 +45,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | - | ---- | ---- | - |
 | [Lab 1](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=113%2Flabs%2Flab1.ipynb) | 2.3  | 2.14 | How to submit labs |
 | [Lab 2](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=113%2Flabs%2Flab2.ipynb) | 2.10 | 2.21 | Histograms |
-| Lab 3 | 3.3  | 3.14 |
+| Lab 3 | 3.10 | 3.21 |
 | Lab 4 | 3.17 | 4.4  |
 | Lab 5 | 4.7  | 4.18 |
 | Lab 6 | 4.14 | 4.25 |
@@ -68,9 +67,9 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | H,I | 2.21 | 2.24 | 3.7  | [Correlation. Regression.](../notes/notes2hi.pdf) |
 |     |      |      |      | **Exam 1** Opens 3.3 Due 3.14. |
 | J,K | 2.28 | 3.1  | 3.14 | **Review.** Probability. Add rule and multiply rule |
-| L   | 2.28 | 3.3  | 3.14 | Complement and conditional probability **Lab 3** |
+| L   | 2.28 | 3.3  | 3.14 | Complement and conditional probability |
 | M,N | 3.7  | 3.8  | 3.21 | Counting principle. Probability distributions |
-| O,P | 3.7  | 3.10 | 3.21 | Binomials. Standard normal. |
+| O,P | 3.7  | 3.10 | 3.21 | Binomials. Standard normal. **Lab 3** |
 | Q,R | 3.14 | 3.15 | 4.4  | Normals. Sampling distributions. |
 | S   | 3.14 | 3.17 | 4.4  | CLT. **Lab 4.** |
 |     |      | 3.22 |      | **Review** |
@@ -89,91 +88,3 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 |     |      | 5.12 |      | **Exam 3** |
 |     |      | 5.17 |      | **Review** |
 |     |      | TBD  |      | **Final**  |
-
-<!--
-# Reading and Lecture Schedule
-By each Sunday below
-
-1. Go to [Perusall.com](https://www.perusall.com) and **do the reading**. Make the minimum number of annotations:
-    1. Highlight interesting passages and type in comments and questions
-    1. Click on classmates' highlights and add to the discussion
-    1. Click on the instructor's highlights (if any) and add to the discussion.
-1. **Watch the recordings** linked below
-1. **Review the notes** linked below
-
-`A`. (2.7) [Recording 1] [2] [3] [Notes 1] [2] [3]  
-`B`. (2.7)  
-`C`. (2.14)  
-`D`. (2.14)  
-`E`. (2.21)  
-`F`. (2.21)  
-`G`. (2.28)  
-`H`. (2.28)  
-`A-G`. (2.28) Midterm 1  
-`I`. (3.7)  
-`J`. (3.7)  
-`K`. (3.14)  
-`L`. (3.14)  
-`M`. (3.21)  
-`N`. (3.21)  
-`H-N`. (3.28) Midterm 2  
-`O`. (4.7)  
-`P`. (4.7)  
-`Q`. (4.11)  
-`R`. (4.11)  
-`S`. (4.18)  
-`T`. (4.18)  
-`U`. (4.25)  
-`V`. (4.25)  
-`W`. (5.2)  
-`X`. (5.2)  
-`Y`. (5.9)  
-`Z`. (5.9)  
-`A-Z`. (TBD) Final  
-
-# Lab and Problem Set Schedule
-By each Sunday below
-
-1. Go to [WeBWorK](https://www.math.csi.cuny.edu/webwork2/) and **do the problemset**
-1. **Do the lab** linked below
-    * If it is a Jupyter notebook:
-        1. Wait for the notebook to load (server can take up to 5 minutes to spin up)
-        1. Complete the lab
-        1. Save your completed lab as a PDF and submit to *Gradescope*. Directions included at end of each jupyter lab
-    * If the lab is a PDF worksheet:
-        1. Download the worksheet to your computer
-        1. Open it in a program that lets you mark it up (eg, macOS Preview, Notability, etc)
-        1. Complete the worksheet
-        1. Save your completed lab as a PDF and submit to *Gradescope*
-
-`AB`. (2.14) https://mybinder.org/v2/gh/anniebmcc/pycalclab/master?filepath=mat301a.ipynb  
-`CD`. (2.21)  
-`EF`. (2.28)  
-`GH`. (3.7)  
-`IJ`. (3.14)  
-`KL`. (3.21)  
-`MN`. (3.28)  
-`OP`. (4.11)  
-`QR`. (4.18)  
-`ST`. (4.25)  
-`UV`. (5.2)  
-`WX`. (5.9)  
-`YZ`. (5.16)  
-
-# Webwork Exam Tips
-
-1. Go to "Homework Sets" and **click "Take Midterm 1 test" to take or retake Midterm 1**.
-1. Click "Midterm 1 (test 1)" to review previous attempt 1, click "Midterm 1 (test 2)" to review previous attempt 2, etc.
-
-![Click "Take Midterm 1 test" to take or retake Midterm 1. Click "Midterm 1 (test 1)" to review previous attempt (attempt 1)](../webwork1.png)
-
-3. Answers are saved automatically when you type them. After you have typed in your answer to one problem, just click on the next problem you want to do.
-1. Click "preview" to see messages, if any, about the format of your answer.
-1. **DO NOT click "grade" until done with ALL questions.**
-
-![Answers are saved automatically when you type them. Click "preview" to see any helpful messages. DO NOT click "grade" until done with ALL questions.](../webwork2.png)
-
-6. A yellow banner means this attempt is already submitted: no changes are possible. You may review your recorded answers and the correct answers for this attempt. To retake the exam, go back to the "Homework sets" page.
-
-![Yellow banner means this attempt is already submitted, no changes are possible.](../webwork3.png)
--->
