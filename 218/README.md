@@ -2,10 +2,9 @@
 City University of New York - College of Staten Island - 2021 Spring  
 SLS 218/21451 MW 12:20-2:15  
 
-Feb 1 - Mar 3: Dr Matthew Han-Jing Sunderland  
-Mar 8 - May 23: Keven Calderon  
+Feb 1 - Mar 7: Matthew Sunderland ![other](../object3.png)  
+Mar 8 - May 25: Keven Calderon ![other](../object1.png)  
 
-![other](../object1.png)  
 _When emailing, put "218" in the subject_
 
 Office hours MW 5:00-6:30 on Blackboard Collaborate
