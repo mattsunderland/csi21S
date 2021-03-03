@@ -2,12 +2,11 @@
 City University of New York - College of Staten Island - 2021 Spring  
 SLS 218/21451 MW 12:20-2:15  
 
-Feb 1 - Mar 7: Matthew Sunderland ![other](../object3.png)  
-Mar 8 - May 25: Keven Calderon ![other](../object1.png)  
-
-_When emailing, put "218" in the subject_
+![other](../object3.png) (Feb 1 - Mar 7)  
+![other](../object1.png) (Mar 8 - May 25)  
 
 Office hours MW 5:00-6:30 on Blackboard Collaborate
+
 
 # Day 1 Checklist
 1. Confirm your preferred email on CunyFirst > Self Service > Personal Info
@@ -49,11 +48,11 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | F | 2.14 | 2.17 | [10.4 Triangle, Quadrilateral, Polygon, Definition, Relationship, Venn diagrams (477)](../notes/notes1f.pdf) | ca217 ca218-219 ca220-221 ca222 484/1-4 487/1-3 |
 |   |      | ~~2.22~~ | 
 | G | 2.21 | 2.24 | [10.4 Construction with compass/straight edge](../notes/notes1g.pdf) | ca223/1-3 ca224/4,6,7 484/5-7 487/5abc,8ab,9,~~16ab,19a,20ab~~ |
-|   |      | 3.1  | **Review** |
 |   |      |      | **Exam 1** Opens 3.3 Due 3.14. |
-| H | 2.28 | 3.3  | 11.1 Concepts of Measurement (493) | ca230/1,2,4 ca231/1-3 503/1-4,7-9 504/1-7 |
+| H | 2.28 | 3.1  | 11.1 Concepts of Measurement (493) | ca230/1,2,4 ca231/1-3 503/1-4,7-9 504/1-7 |
 | I | \"   | \"   | 11.2 Length, Area, Volume & Dimension (505) | ca232/1,2 508/1abc,2,3 509/1,3,4,7 |
 | J | \"   | \"   | 11.3 Error & Precision in Measurement (510) | ca233/1ab,2 513/1,2 513/1-3 |
+|   |      | 3.3  | (No new material) |
 | K | 3.7  | 3.8  | 11.4 Converting from One Unit of Measurement to Another I (514) | ca234/1abc,2 ca235/1-3 518/1-4 521/1-6,8-11 |
 | L | \"   | \"   | 11.4 Converting from One Unit of Measurement to Another II | ca236/1,2 ca237/1-5 ca238/1,2 518/5-7 521/12-14,16,17,21,25 |
 | M | \"   | 3.10 | 12.3 Areas of Triangles (535) | ca246/3,4 ca247/1-4 539/2,4 542/2,4-6,8-11,13 |
