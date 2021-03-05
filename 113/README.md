@@ -5,7 +5,8 @@ Math 113/21204 MW 2:30-4:25
 ![other](../object3.png) (Feb 1 - Mar 7)  
 ![other](../object2.png) (Mar 8 - May 25)  
 
-Office hours MW 5:00-6:30 on Blackboard Collaborate
+~~Office hours MW 5:00-6:30~~  
+Office hours Monday 4:30 on Blackboard Collaborate
 
 # Day 1 Checklist
 1. Confirm your preferred email on CunyFirst > Self Service > Personal Info
