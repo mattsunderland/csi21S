@@ -6,7 +6,8 @@ Dr Matthew Han-Jing Sunderland
 ![other](../object3.png)  
 _When emailing, put "233" in the subject_
 
-Office hours MW 5:00-6:30 on Blackboard Collaborate
+~~Office hours MW 5:00-6:30 on Blackboard Collaborate~~  
+Office hours after class (MW) on Blackboard Collaborate
 
 # Day 1 Checklist
 1. Confirm your preferred email on CunyFirst > Self Service > Personal Info

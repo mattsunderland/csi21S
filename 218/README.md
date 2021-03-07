@@ -5,8 +5,7 @@ SLS 218/21451 MW 12:20-2:15
 ![other](../object3.png) (Feb 1 - Mar 7)  
 ![other](../object1.png) (Mar 8 - May 25)  
 
-Office hours MW 5:00-6:30 on Blackboard Collaborate
-
+~~Office hours MW 5:00-6:30 on Blackboard Collaborate~~
 
 # Day 1 Checklist
 1. Confirm your preferred email on CunyFirst > Self Service > Personal Info
