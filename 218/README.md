@@ -7,6 +7,8 @@ SLS 218/21451 MW 12:20-2:15
 
 ~~Office hours MW 5:00-6:30 on Blackboard Collaborate~~
 
+Office Hours Monday:4:30pm - 5:30pm, Wednesday: 11:10AM- 12:10PM on Zoom. Link is in BB. 
+
 # Day 1 Checklist
 1. Confirm your preferred email on CunyFirst > Self Service > Personal Info
 1. Confirm you can log into Blackboard > This course > Blackboard Collaborate
@@ -52,7 +54,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | I | \"   | \"   | 11.2 Length, Area, Volume & Dimension (505) | ca232/1,2 508/1abc,2,3 509/1,3,4,7 |
 | J | \"   | \"   | 11.3 Error & Precision in Measurement (510) | ca233/1ab,2 513/1,2 513/1-3 |
 |   |      | 3.3  | (No new material) |
-| K | 3.7  | 3.8  | 11.4 Converting from One Unit of Measurement to Another I (514) | ca234/1abc,2 ca235/1-3 518/1-4 521/1-6,8-11 |
+| K | 3.7  | 3.8  | [11.4 Converting from One Unit of Measurement to Another I (514)](../Desktop/notes_11.4.pdf)| ca234/1abc,2 ca235/1-3 518/1-4 521/1-6,8-11 |
 | L | \"   | \"   | 11.4 Converting from One Unit of Measurement to Another II | ca236/1,2 ca237/1-5 ca238/1,2 518/5-7 521/12-14,16,17,21,25 |
 | M | \"   | 3.10 | 12.3 Areas of Triangles (535) | ca246/3,4 ca247/1-4 539/2,4 542/2,4-6,8-11,13 |
 | N | 3.14 | 3.15 | 12.4 Areas of Parallelograms & Other Polygons (544) | ca248/1,2 ca249:12H/1,2 546/1,3 547/2,3,4abcd,6,7ab,8 |
