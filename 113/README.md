@@ -47,7 +47,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | - | ---- | ---- | - |
 | [Lab 1](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=113%2Flabs%2Flab1.ipynb) | 2.3  | 2.14 | How to submit labs |
 | [Lab 2](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=113%2Flabs%2Flab2.ipynb) | 2.10 | 2.21 | Histograms |
-| Lab 3 | 3.10 | 3.21 |
+| [Lab 3](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=113%2Flabs%2Flab3.ipynb) | 3.10 | 3.21 | Boxplots |
 | Lab 4 | 3.17 | 4.4  |
 | Lab 5 | 4.7  | 4.18 |
 | Lab 6 | 4.14 | 4.25 |
