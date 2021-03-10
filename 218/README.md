@@ -56,7 +56,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 |   |      | 3.3  | (No new material) |
 | K | 3.7  | 3.8  | [11.4 Converting from One Unit of Measurement to Another I (514)](../notes/notes_11.4.pdf)| ca234/1abc,2 ca235/1-3 518/1-4 521/1-6,8-11 |
 | L | \"   | \"   | 11.4 Converting from One Unit of Measurement to Another II | ca236/1,2 ca237/1-5 ca238/1,2 518/5-7 521/12-14,16,17,21,25 |
-| M | \"   | 3.10 | 12.3 Areas of Triangles (535) | ca246/3,4 ca247/1-4 539/2,4 542/2,4-6,8-11,13 |
+| M | \"   | 3.10 | [12.3 Areas of Triangles (535)](../notes/Notes_12.3.pdf) | ca246/3,4 ca247/1-4 539/2,4 542/2,4-6,8-11,13 |
 | N | 3.14 | 3.15 | 12.4 Areas of Parallelograms & Other Polygons (544) | ca248/1,2 ca249:12H/1,2 546/1,3 547/2,3,4abcd,6,7ab,8 |
 | O | \"   | 3.17 | 12.5 Shearing: Changing Shapes without Changing Area; Cavalieri’s Principle (550) | ca250/12J ca251/1-3 551/1,2 553/1,2ab,3ab,4ab,5abc,6 |
 | P | 3.21 | 3.22 | 12.6 Areas of Circles and the Number Pi (554) | ca252:12L ca253:12N ca254/1 558/1,2,4,5 559/1,2,6,8 |
