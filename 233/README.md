@@ -51,37 +51,36 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 # Schedule
 | | Reading due | Lecture date | WeBWorK due | Topic |
 | --- | ---- | ---- | ---- | - |
-| A   |      | 2.1  | 2.28 | [Polar coordinates. Vectors in the plane.](../notes/notes3a.pdf) |
-| B   |      | 2.3  | 2.28 | [Vectors in 3-space. Dot product.](../notes/notes3b.pdf) |
-| C   | 2.7  | 2.8  | 3.7  | [Determinant.](../notes/notes3bc.pdf) |
-| D   | 2.7  | 2.10 | 3.7  | [Cross product.](../notes/notes3cd.pdf) |
-|     | 2.14 | 2.17 | 2.28 | **Lab 1.**   |
+| A   |      | 2.1  | 2.28 | [(1.3) Polar coordinates. (2.1) Vectors in the plane.](../notes/notes3a.pdf) |
+| B   |      | 2.3  | 2.28 | [(2.2) Vectors in 3-space. (2.3) Dot product.](../notes/notes3b.pdf) |
+| C   | 2.7  | 2.8  | 3.7  | [(2.4) Determinant.](../notes/notes3bc.pdf) |
+| D   | 2.7  | 2.10 | 3.7  | [(2.4) Cross product.](../notes/notes3cd.pdf) |
+|     |      | 2.17 | 2.28 | **Lab 1.**   |
 |     |      | ~~2.22~~ |  |
-| D,E | 2.14 | 2.24 | 3.7  | [Cross product. Lines in space.](../notes/notes3de.pdf) |
-| E   | 2.14 | 3.1  | 3.14 | [Lines in space. Planes.](../notes/notes3e.pdf) |
-|     | 2.28 | 3.3  | 3.14 | **Lab 2.** |
-| E',F| 2.14 |      | 3.14 | Quadrics. Vector-fns. Derivatives of vector-fns. |
-| G   | 2.28 | 3.3  | 3.14 | Arclength and speed. Multivariate-fns. Higher limits and continuity. |
-| H   | 2.28 |      |      | Partials |
-| I   | 3.7  | 3.8  | 3.21 | Differentiability and tangent planes. **Lab 3.** |
-| J   | 3.7  | 3.10 | 3.21 | Gradient and directional derivatives. **Review.** |
-|     |      |      |      | **Exam 1** Opens 3.10 Due 3.21 |
-| K   | 3.14 | 3.15 | 4.4  | Chain rule in several variables. |
-| L   | 3.14 | 3.17 | 4.4  | Optimization in several variables. **Lab 4.** |
-| M   | 3.21 | 3.22 | 4.11 | Langrange multipliers. |
-| N   | 3.21 | 3.24 | 4.11 | Integration in several variables. **Lab 5.** |
-| O   | 4.4  | 4.5  | 4.18 | Double integrals over general regions |
-| P   | 4.4  | 4.7  | 4.18 | Triple integrals. |
-| Q   | 4.11 | 4.12 | 4.25 | Integration in polar and cylindrical coordinates |
-| R   | 4.11 | 4.14 | 4.25 | Integration in spherical coordinates
-| S,T | 4.18 | 4.19 | 5.2  | Vector fields. Line integrals |
-| U   | 4.18 | 4.21 | 5.2  | Conservative vector fields. **Review.** |
-|     |      | 4.26 |      | **Exam 2** |
-| V   | 4.25 | 4.28 | 5.9  | Parametrized surface, surface integral, surface area |
-| W   | 5.2  | 5.3  | 5.16 | Surface integral of vector field. Divergence and curl. |
-| X   | 5.2  | 5.5  | 5.16 | Green's Theorem |
-| Y   | 5.9  | 5.10 | 5.23 | Stokes' Theorem |
-| Z   | 5.9  | 5.12 | 5.23 | Divergence theorem |
-|     |      | 5.17 |      | **Review** |
-|     |      | TBD  |      | **Final**  |
+| D,E | 2.14 | 2.24 | 3.7  | [(2.4) Cross product. (2.5) Lines in space.](../notes/notes3de.pdf) |
+| E   | 2.14 | 3.1  | 3.14 | [(2.5) Lines in space. (2.5) Planes.](../notes/notes3e.pdf) |
+|     |      | 3.3  | 3.14 | **Lab 2.**
+|     |     |~~3.8~~
+| E',F| 3.2  |      | 3.21 | (2.6) Quadrics (3.1) Curves. (3.2) Curve calculus
+| G,G'| 3.2  | 3.10 | 3.21 | (3.3) Arclen (3.4) Speed (4.1) Multivariate-fs
+|     |      |      |      | **Exam 1** Opens 3.15 Due 4.4
+| H   | 3.14 |      | 4.4  | (4.3) Partials
+|G',I,J|3.14 | 3.15 | 4.4  | (4.2) Limit, continuity (4.4) Differentiability, tangent plane (4.6) Gradient and directional derivatives
+| K,L | 3.14 | 3.17 | 4.4  | (4.5) Chain rule (4.7) Optimization
+| M   | 3.21 | 3.22 | 4.11 | (4.8) Langrange multipliers **Lab 3**
+| N   | 3.21 | 3.24 | 4.11 | (5.1) Double integral **Lab 4.**
+| O   | 4.4  | 4.5  | 4.18 | (5.2) General double integral
+| P   | 4.4  | 4.7  | 4.18 | (5.4) Triple integral
+| Q   | 4.11 | 4.12 | 4.25 | (5.3) Polar. (2.7, 5.5) Cylindrical.
+| R   | 4.11 | 4.14 | 4.25 | (2.7, 5.5) Spherical. **Lab 5.**
+| S,T | 4.18 | 4.19 | 5.2  | (6.1) Vector fields. (6.2) Line integrals
+| U   | 4.18 | 4.21 | 5.2  | (6.3) Conservative vector fields. **Review.**
+|     |      | 4.26 |      | **Exam 2**
+| V   | 4.25 | 4.28 | 5.9  | (6.6) Surface parametrization, integral, area
+| W   | 5.2  | 5.3  | 5.16 | (6.6) Surface integral of vector field. (6.5) Divergence and curl. |
+| X   | 5.2  | 5.5  | 5.16 | (6.4) Green's Theorem
+| Y   | 5.9  | 5.10 | 5.23 | (6.7) Stokes' Theorem
+| Z   | 5.9  | 5.12 | 5.23 | (6.8) Divergence theorem
+|     |      | 5.17 |      | **Review**
+|     |      | TBD  |      | **Final**
 
