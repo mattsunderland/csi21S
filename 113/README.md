@@ -68,8 +68,8 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 |     |      | ~~2.22~~ |  | 
 | H,I | 2.21 | 2.24 | 3.7  | [(12.2) Correlation. (12.3) Regression.](../notes/notes2hi.pdf) |
 |     |      |      |      | **Exam 1** Opens 3.3 Due 3.14. |
-| J,K | 2.28 | 3.1  | 3.14 | **Review.** Probability. Add rule and multiply rule |
-| L   | 2.28 | 3.3  | 3.14 | Complement and conditional probability |
+| J,K | 2.28 | 3.1  | 3.14 | **Review.** [Probability. Add rule and multiply](../notes/notes2jk.pdf) rule |
+| L   | 2.28 | 3.3  | 3.14 | [Complement and conditional probability](../notes/notes2l.pdf) |
 | M,N | 3.7  | 3.8  | 3.21 | Counting principle. (4.1-2, 5.1-2) Probability distributions |
 | O,P | 3.7  | 3.10 | 3.21 | (4.3) Binomials. (6.1) Standard normal. **Lab 3** |
 | Q,R | 3.14 | 3.15 | 4.4  | (6.2) Normals. (7.1,3) Sampling distributions. |

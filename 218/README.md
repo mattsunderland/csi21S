@@ -50,9 +50,9 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 |   |      | ~~2.22~~ | 
 | G | 2.21 | 2.24 | [10.4 Construction with compass/straight edge](../notes/notes1g.pdf) | ca223/1-3 ca224/4,6,7 484/5-7 487/5abc,8ab,9,~~16ab,19a,20ab~~ |
 |   |      |      | **Exam 1** Opens 3.3 Due 3.14. |
-| H | 2.28 | 3.1  | 11.1 Concepts of Measurement (493) | ca230/1,2,4 ca231/1-3 503/1-4,7-9 504/1-7 |
-| I | \"   | \"   | 11.2 Length, Area, Volume & Dimension (505) | ca232/1,2 508/1abc,2,3 509/1,3,4,7 |
-| J | \"   | \"   | 11.3 Error & Precision in Measurement (510) | ca233/1ab,2 513/1,2 513/1-3 |
+| H | 2.28 | 3.1  | [11.1 Concepts of Measurement (493)](notes1h.pdf) | ca230/1,2,4 ca231/1-3 503/1-4,7-9 504/1-7 |
+| I | \"   | \"   | [11.2 Length, Area, Volume & Dimension (505)](notes1i.pdf) | ca232/1,2 508/1abc,2,3 509/1,3,4,7 |
+| J | \"   | \"   | [11.3 Error & Precision in Measurement (510)](notes1j.pdf) | ca233/1ab,2 513/1,2 513/1-3 |
 |   |      | 3.3  | (No new material) |
 | K | 3.7  | 3.8  | [11.4 Converting from One Unit of Measurement to Another I (514)](../notes/notes_11.4.pdf)| ca234/1abc,2 ca235/1-3 518/1-4 521/1-6,8-11 |
 | L | \"   | \"   | 11.4 Converting from One Unit of Measurement to Another II | ca236/1,2 ca237/1-5 ca238/1,2 518/5-7 521/12-14,16,17,21,25 |
