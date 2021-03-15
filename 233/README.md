@@ -41,12 +41,12 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 
 # Labs
 | | Lab demo | Lab due | Topic |
-| - | ---- | ---- | - |
-| [Lab 1](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=233%2Flabs%2Flab1.ipynb) | 2.17 | 2.28 | How to submit labs |
-| [Lab 2](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=233%2Flabs%2Flab2.ipynb) | 3.1  | 3.14 | Surfaces |
-| Lab 3 | 3.3  | 3.14 |
-| Lab 4 | 3.17 | 4.4  |
-| Lab 5 | 3.24 | 4.11 |
+| --- | ---- | ---- | - |
+[Lab 1](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=233%2Flabs%2Flab1.ipynb) | 2.17 | 2.28 | How to submit labs
+[Lab 2](https://mybinder.org/v2/gh/mattsunderland/csi21S/HEAD?filepath=233%2Flabs%2Flab2.ipynb) | 3.1  | 3.14 | Surfaces
+Lab 3 | 3.22 | 4.11
+Lab 4 | 3.24 | 4.11
+Lab 5 | 4.14 | 4.25
 
 # Schedule
 | | Reading due | Lecture date | WeBWorK due | Topic |
@@ -61,10 +61,9 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | E   | 2.14 | 3.1  | 3.14 | [(2.5) Lines in space. (2.5) Planes.](../notes/notes3e.pdf) |
 |     |      | 3.3  | 3.14 | **Lab 2.**
 |     |     |~~3.8~~
-| E',F| 3.2  |      | 3.21 | (2.6) Quadrics (3.1) Curves. (3.2) Curve calculus
-| G,G'| 3.2  | 3.10 | 3.21 | (3.3) Arclen (3.4) Speed (4.1) Multivariate-fs
+|E',F,G,G'|3.2|3.10 | 3.21 | [(2.6) Quadrics (3.1) Curves. (3.2) Curve calculus (3.3) Arclen (3.4) Speed](../notes/notes3e'fg.pdf)
 |     |      |      |      | **Exam 1** Opens 3.15 Due 4.4
-| H   | 3.14 |      | 4.4  | (4.3) Partials
+| G'H | 3.14 |      | 4.4  | (4.1) Multivariate f (4.3) Partials
 |G',I,J|3.14 | 3.15 | 4.4  | (4.2) Limit, continuity (4.4) Differentiability, tangent plane (4.6) Gradient and directional derivatives
 | K,L | 3.14 | 3.17 | 4.4  | (4.5) Chain rule (4.7) Optimization
 | M   | 3.21 | 3.22 | 4.11 | (4.8) Langrange multipliers **Lab 3**
