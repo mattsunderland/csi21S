@@ -61,7 +61,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | O | \"   | 3.17 | [12.5 Shearing: Changing Shapes without Changing Area; Cavalieri’s Principle (550)](../notes/notes_12.5.pdf) | ca250/12J ca251/1-3 551/1,2 553/1,2ab,3ab,4ab,5abc,6 |
 | P | 3.21 | 3.22 | [12.6 Areas of Circles and the Number Pi (554)](../notes/Notes_12.6.pdf) | ca252:12L ca253:12N ca254/1 558/1,2,4,5 559/1,2,6,8 |
 |   |      | 3.24 | **Exam 2** Opens 3.24 Due ~~4.9~~4.11. | 
-| Q | 4.4  | 4.5  | 12.9 Pythagorean Theorem, applications, proofs, proof with similar right triangles, President James Garfield’s Trapezoidal proof (570) | ca261:12U ca262/1,4 560/1-3,6 563/1,3,6 |
+| Q | 4.4  | 4.5  | [12.9 Pythagorean Theorem, applications, proofs, proof with similar right triangles, President James Garfield’s Trapezoidal proof (570)](../notes/notes_12.9.pdf) | ca261:12U ca262/1,4 560/1-3,6 563/1,3,6 |
 | R | \"   | 4.7  | 13.1 Polyhedra, Other Solid Shapes (581) | ca265/1,2 ca267 586/1-4 587/2-4 |
 | S | 4.11 | 4.12 | 13.2 Patterns, Surface Area (589) | ca269/13G:1,2 ca270/1-4 591/7-11 (Cylinder Area) 595/3ab,13ab (Pyramid Area) 596/11,12 583/11,12 (Cone Area) 596/15ab,16ab,17,20 |
 | T | \"   | 4.14 | 13.3 Volumes of Solid Shapes (597); see YouTube | ca275:13N/1-3 ca277/2,3 603/2-7 604/2ab,4ab,5,7,8,12ab (cone) 17*,18ab,22,23ab,24 |
