@@ -64,12 +64,12 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | Q | 4.4  | 4.5  | [12.9 Pythagorean Theorem, applications, proofs, proof with similar right triangles, President James Garfield’s Trapezoidal proof (570)](../notes/notes_12.9.pdf) | ca261:12U ca262/1,4 560/1-3,6 563/1,3,6 |
 | R | \"   | 4.7  | [13.1 Polyhedra, Other Solid Shapes (581)](../notes/Notes_13.1.pdf) | ca265/1,2 ca267 586/1-4 587/2-4 |
 | S | 4.11 | 4.12 | [13.2 Patterns, Surface Area (589)](../notes/Notes_13.2.pdf) | ca269/13G:1,2 ca270/1-4 591/7-11 (Cylinder Area) 595/3ab,13ab (Pyramid Area) 596/11,12 583/11,12 (Cone Area) 596/15ab,16ab,17,20 |
-| T | \"   | 4.14 | 13.3 Volumes of Solid Shapes (597); see YouTube | ca275:13N/1-3 ca277/2,3 603/2-7 604/2ab,4ab,5,7,8,12ab (cone) 17*,18ab,22,23ab,24 |
+| T | \"   | 4.14 | [13.3 Volumes of Solid Shapes (597); see YouTube](../notes/Notes_13.3:13.4.pdf) | ca275:13N/1-3 ca277/2,3 603/2-7 604/2ab,4ab,5,7,8,12ab (cone) 17*,18ab,22,23ab,24 |
 | U | \"   | \"   | 13.4 Volumes of Submerged Objects (607) | ca311/1-3 608/1,2ab,3 609/1-3 |
-| V | 4.18 | 4.19 | 15.1 Formulating Statistical Questions, Gathering Data, Using Samples (674) | ca309/abcde ca310/1,2 679/1,2,3,4 680/3,4,5,8,9 |
-| W | \"   | \"   | 15.2 Displaying Data and Interpreting Data Displays (681) | ca314/1-6 690/1-3 692/4,5,8ab|
+| V | 4.18 | 4.19 | [15.1 Formulating Statistical Questions, Gathering Data, Using Samples (674)](../notes/Notes_13.4:15.1.pdf) | ca309/abcde ca310/1,2 679/1,2,3,4 680/3,4,5,8,9 |
+| W | \"   | \"   | [15.2 Displaying Data and Interpreting Data Displays (681)](../notes/Notes15.2:15.3.pdf) | ca314/1-6 690/1-3 692/4,5,8ab|
 | X | \"   | 4.21 | 15.3 The Center of Data: Mean, Median, Mode (693) | ca321/1 ca322/2-4 ca323/2 ca325/1,2ab,3 ca333/1,2 698/2-6 700/2,4,5,7-10ab,13,14abc,17,20*,21* |
-| Y | 4.25 | 4.26 | 16.1 Basic Principles of Probability (723) |
+| Y | 4.25 | 4.26 | [16.1 Basic Principles of Probability (723)](../notes/Notes16.1:16.2.pdf) |
 | Z | \"   | \"   | 16.2 Counting Number of Outcomes (730) | ca346/1,3,4 ca357/1,2 733/1-4 735/2,3ab,5,6abc |
 | AA| \"   | 4.28 | 16.3 Calculating Probabilities in Compound Events (736) | ca351/16J:1,2 739/1abc,2,3 741/1-8,10ab,12,13,16ab |
 | AB| \"   | \"   | 16.4 Using Fraction Arithmetic to Calculate Probabilities (743) | ca352/1 ca354/1,3c 747/1-3 748/1,2,10,11 |
