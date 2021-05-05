@@ -72,7 +72,7 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 | Y | 4.25 | 4.26 | [16.1 Basic Principles of Probability (723)](../notes/Notes16.1:16.2.pdf) |
 | Z | \"   | \"   | 16.2 Counting Number of Outcomes (730) | ca346/1,3,4 ca357/1,2 733/1-4 735/2,3ab,5,6abc |
 | AA| \"   | 4.28 | 16.3 Calculating Probabilities in Compound Events (736) | ca351/16J:1,2 739/1abc,2,3 741/1-8,10ab,12,13,16ab |
-| AB| \"   | \"   | 16.4 Using Fraction Arithmetic to Calculate Probabilities (743) | ca352/1 ca354/1,3c 747/1-3 748/1,2,10,11 |
+| AB| \"   | \"   | [16.4 Using Fraction Arithmetic to Calculate Probabilities (743)](../notes/Notes_04:28.pdf) | ca352/1 ca354/1,3c 747/1-3 748/1,2,10,11 |
 |   |      | 5.3  | **Review** |
 |   |      | 5.5  | **Review** |
 |   |      | 5.10 | **Exam 3** |
