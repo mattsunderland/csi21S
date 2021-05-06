@@ -72,7 +72,7 @@ Lab 5 | 4.14 | 4.25
 | P   | 4.4  | 4.7  | 4.18 | (5.4) Triple integral
 | Q   | 4.11 | 4.12 | 4.25 | (5.3) Polar. (2.7, 5.5) Cylindrical.
 | R   | 4.11 | 4.14 | 4.25 | (2.7, 5.5) Spherical. **Lab 5.**
-| S,T | 4.18 | 4.19 | 5.2  | (6.1) Vector fields. (6.2) Line integrals
+| S,T | 4.18 | 4.19 | 5.2  | (6.1) Vector fields. (6.2) [Line integrals](https://scribbletogether.com/whiteboard/2DB06D4A-7B31-4CFF-8427-35B6821BEF16)
 | U   | 4.18 | 4.21 | 5.2  | (6.3) Conservative vector fields. **Review.**
 |     |      | 4.26 |      | **Exam 2**
 | V   | 4.25 | 4.28 | 5.9  | (6.6) Surface parametrization, integral, area
