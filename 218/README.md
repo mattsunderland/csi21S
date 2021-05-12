@@ -76,6 +76,6 @@ Coursework consists of lecture participation (just be there and engaged) and rea
 |   |      | 5.3  | **Review** |
 |   |      | 5.5  | **Review** |
 |   |      | 5.10 | **Exam 3** |
-|   |      | 5.12 | [**Review**](../notes/exam1a218_ANSKEY.pdf) |
-|   |      | 5.17 | **Review** |
+|   |      | 5.12 | [**Review Exam 1**](../notes/exam1a218_ANSKEY.pdf) |
+|   |      | 5.17 | [**Review Exam 2**](../notes/Exam 2 MTH218_ANSKEY.pdf) |
 |   |      | TBD  | **Final**  |
