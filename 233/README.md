@@ -9,6 +9,8 @@ _When emailing, put "233" in the subject_
 ~~Office hours MW 5:00-6:30 on Blackboard Collaborate~~  
 Office hours after class (MW) on Blackboard Collaborate
 
+Formulae: https://github.com/mattsunderland/csi21S/blob/main/233/calc3-formulae.pdf
+
 # Day 1 Checklist
 1. Confirm your preferred email on CunyFirst > Self Service > Personal Info
 1. Confirm you can log into Blackboard > This course > Blackboard Collaborate
